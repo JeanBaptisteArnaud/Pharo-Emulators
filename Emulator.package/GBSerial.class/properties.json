@@ -1,0 +1,14 @@
+{
+	"category" : "Emulator-Proc-GB-Hardware-Todo",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "GBSerial",
+	"pools" : [
+		 ],
+	"super" : "GBHardware",
+	"type" : "normal" }

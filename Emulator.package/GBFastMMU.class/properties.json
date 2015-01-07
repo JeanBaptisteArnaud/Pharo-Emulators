@@ -1,0 +1,18 @@
+{
+	"category" : "Emulator-Proc-GB",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"memoryMap",
+		"cartridgeRom",
+		"inbios",
+		"z80",
+		"bios" ],
+	"name" : "GBFastMMU",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

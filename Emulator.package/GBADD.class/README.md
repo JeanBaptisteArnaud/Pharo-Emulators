@@ -1,0 +1,1 @@
+A GBADD is class representing the Opcode (GB) Add (8bit long)

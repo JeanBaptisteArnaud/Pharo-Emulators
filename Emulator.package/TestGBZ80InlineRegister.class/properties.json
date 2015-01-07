@@ -1,0 +1,14 @@
+{
+	"category" : "Emulator-Proc-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "TestGBZ80InlineRegister",
+	"pools" : [
+		 ],
+	"super" : "TestGBZ80",
+	"type" : "normal" }

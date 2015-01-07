@@ -1,0 +1,14 @@
+{
+	"category" : "Emulator-Proc-GB-Tools",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "GBOptDoubleRegister",
+	"pools" : [
+		 ],
+	"super" : "GBDoubleRegister",
+	"type" : "normal" }

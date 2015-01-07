@@ -1,0 +1,15 @@
+{
+	"category" : "Emulator-GB-Graphics",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"RAMTileSet",
+		"RAMTileMap" ],
+	"name" : "GBFastScreenInlineGraphicalMemory",
+	"pools" : [
+		 ],
+	"super" : "GBFastScreenBitBlt",
+	"type" : "variable" }

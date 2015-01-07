@@ -1,0 +1,26 @@
+{
+	"category" : "Emulator-Proc-GB",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jb 9/15/2014 15:04",
+	"instvars" : [
+		"a",
+		"b",
+		"c",
+		"d",
+		"e",
+		"h",
+		"l",
+		"sp",
+		"pc",
+		"hl",
+		"bc",
+		"de",
+		"af" ],
+	"name" : "GBZ80InlineRegister",
+	"pools" : [
+		 ],
+	"super" : "GBZ80",
+	"type" : "normal" }

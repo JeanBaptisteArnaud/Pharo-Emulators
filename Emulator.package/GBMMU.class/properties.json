@@ -1,0 +1,18 @@
+{
+	"category" : "Emulator-Proc-GB",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"memoryMap",
+		"extendMemoryMap",
+		"cartridgeRom",
+		"inbios",
+		"z80" ],
+	"name" : "GBMMU",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

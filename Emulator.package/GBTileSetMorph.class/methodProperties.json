@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"defaultSpec" : "jb 11/25/2014 15:54",
+		"title" : "jb 11/25/2014 15:54" },
+	"instance" : {
+		"asMorph" : "jb 11/25/2014 18:15",
+		"asSpecAdapter" : "jb 11/26/2014 15:00",
+		"constructViewer" : "jb 11/26/2014 16:52",
+		"initialize" : "jb 11/25/2014 18:06",
+		"openInWorld" : "jb 11/25/2014 17:58",
+		"refresh" : "jb 11/25/2014 16:34",
+		"tileMapName" : "jb 11/25/2014 18:38",
+		"tileMapName:" : "jb 11/25/2014 18:38",
+		"tileSet" : "jb 11/25/2014 15:49",
+		"tileSet:" : "jb 11/25/2014 16:35" } }

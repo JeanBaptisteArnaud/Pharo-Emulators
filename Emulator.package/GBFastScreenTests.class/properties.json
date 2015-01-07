@@ -1,0 +1,14 @@
+{
+	"category" : "Emulator-GB-Graphics-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"gb" ],
+	"name" : "GBFastScreenTests",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

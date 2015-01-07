@@ -1,0 +1,1 @@
+A GBXOR is class representing the Opcode (GB) bitXor 

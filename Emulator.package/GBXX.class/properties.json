@@ -1,0 +1,14 @@
+{
+	"category" : "Emulator-Proc-GB-ExtendedOpcodes",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "GBXX",
+	"pools" : [
+		 ],
+	"super" : "GBOpCode",
+	"type" : "normal" }

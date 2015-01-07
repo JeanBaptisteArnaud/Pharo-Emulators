@@ -1,0 +1,3 @@
+debug
+memory
+	^mmu

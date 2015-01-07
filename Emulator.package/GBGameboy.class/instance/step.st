@@ -1,0 +1,3 @@
+debug
+step
+	processor step

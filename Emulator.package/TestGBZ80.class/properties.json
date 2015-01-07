@@ -1,0 +1,14 @@
+{
+	"category" : "Emulator-Proc-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "TestGBZ80",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Emulator-GB-Cartridge",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "GBWritableBanks",
+	"pools" : [
+		 ],
+	"super" : "GBAbstractBanks",
+	"type" : "variable" }

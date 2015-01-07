@@ -1,0 +1,14 @@
+{
+	"category" : "Emulator-Proc-GB-Opcodes-Resets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"rstValue" ],
+	"name" : "GBRST",
+	"pools" : [
+		 ],
+	"super" : "GBOpCode",
+	"type" : "normal" }

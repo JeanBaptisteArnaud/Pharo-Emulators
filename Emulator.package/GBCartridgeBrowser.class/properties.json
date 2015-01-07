@@ -1,0 +1,14 @@
+{
+	"category" : "Emulator-Tools-Debug",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"currentRom" ],
+	"name" : "GBCartridgeBrowser",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

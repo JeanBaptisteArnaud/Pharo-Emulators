@@ -1,0 +1,16 @@
+{
+	"category" : "Emulator-Proc-GB-Opcodes",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"originalValue",
+		"gb",
+		"notifying" ],
+	"name" : "GBBreakpointProxy",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

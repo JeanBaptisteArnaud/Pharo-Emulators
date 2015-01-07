@@ -1,0 +1,14 @@
+{
+	"category" : "Emulator-Proc-GB-Opcodes-Miscellaneous",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "GBCPL",
+	"pools" : [
+		 ],
+	"super" : "GBOpCode",
+	"type" : "normal" }

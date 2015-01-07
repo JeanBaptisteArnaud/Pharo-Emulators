@@ -1,0 +1,14 @@
+{
+	"category" : "Emulator-Proc-GB",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"value" ],
+	"name" : "GBBank",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

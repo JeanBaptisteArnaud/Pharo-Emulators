@@ -1,0 +1,3 @@
+initialize
+registerWatcher
+	^registerWatcher

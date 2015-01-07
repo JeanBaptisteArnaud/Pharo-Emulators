@@ -1,0 +1,15 @@
+{
+	"category" : "Emulator-Proc-GB-Opcodes-8BitALU",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"valueHandler",
+		"localA" ],
+	"name" : "GBCP",
+	"pools" : [
+		 ],
+	"super" : "GBOpCode",
+	"type" : "normal" }

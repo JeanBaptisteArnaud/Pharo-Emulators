@@ -1,0 +1,14 @@
+{
+	"category" : "Emulator-GB-Memory",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "GBMemoryChunk",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "variable" }

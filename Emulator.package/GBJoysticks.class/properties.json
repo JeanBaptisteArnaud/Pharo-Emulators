@@ -1,0 +1,14 @@
+{
+	"category" : "Emulator-Proc-GB-Hardware-Todo",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"value" ],
+	"name" : "GBJoysticks",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,4 @@
+accessing
+tileMapName
+	
+	^ tileMapName

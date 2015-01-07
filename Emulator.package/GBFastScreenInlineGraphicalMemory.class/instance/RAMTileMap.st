@@ -1,0 +1,3 @@
+accessing
+RAMTileMap
+	^ RAMTileMap

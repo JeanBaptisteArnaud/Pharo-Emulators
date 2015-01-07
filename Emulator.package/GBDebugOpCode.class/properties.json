@@ -1,0 +1,16 @@
+{
+	"category" : "Emulator-Proc-Tools",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"opcode",
+		"pc",
+		"isExtend" ],
+	"name" : "GBDebugOpCode",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

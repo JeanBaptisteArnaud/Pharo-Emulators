@@ -1,0 +1,20 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"Joypad" : "jb 10/17/2013 15:08",
+		"LCDSTAT" : "jenabaptistearnaud 9/3/2013 16:13",
+		"Serial" : "jb 10/17/2013 15:08",
+		"Timer" : "jenabaptistearnaud 9/4/2013 14:30",
+		"VBlank" : "jeanbaptistearnaud 12/27/2014 15:56",
+		"initialize" : "jenabaptistearnaud 9/3/2013 16:10",
+		"isFlag" : "jeanbaptistearnaud 12/28/2014 17:19",
+		"nJoypad" : "jb 10/17/2013 15:07",
+		"nLCDSTAT" : "jb 10/17/2013 15:07",
+		"nSerial" : "jb 10/17/2013 15:07",
+		"nTimer" : "jb 10/17/2013 15:07",
+		"nVBlank" : "jeanbaptistearnaud 12/27/2014 15:56",
+		"printOn:" : "jeanbaptistearnaud 2/7/2014 17:47",
+		"rb:" : "jenabaptistearnaud 9/3/2013 16:02",
+		"value" : "jeanbaptistearnaud 12/27/2014 16:01",
+		"wb:value:" : "jeanbaptistearnaud 12/27/2014 15:58" } }

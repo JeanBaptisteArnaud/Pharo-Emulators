@@ -1,0 +1,14 @@
+{
+	"category" : "Emulator-GB-Graphics",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"memory" ],
+	"name" : "GBFastScreenNormalMemory",
+	"pools" : [
+		 ],
+	"super" : "GBFastScreenBitBlt",
+	"type" : "normal" }

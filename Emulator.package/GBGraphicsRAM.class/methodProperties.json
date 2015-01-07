@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"beginAddress" : "jb 2/14/2013 16:13",
+		"endAddress" : "jb 2/14/2013 16:13",
+		"new" : "jeanbaptistearnaud 11/28/2014 09:55" },
+	"instance" : {
+		"atAllPut:" : "jeanbaptistearnaud 11/27/2014 12:49",
+		"beginValue" : "jeanbaptistearnaud 9/17/2014 02:49",
+		"byteAt:" : "jb 9/17/2014 17:57",
+		"byteAt:put:" : "jb 9/17/2014 17:58",
+		"rb:" : "jb 9/17/2014 17:58",
+		"wb:value:" : "jeanbaptistearnaud 11/27/2014 12:32" } }

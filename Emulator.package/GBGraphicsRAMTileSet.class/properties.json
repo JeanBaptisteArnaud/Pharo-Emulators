@@ -1,0 +1,15 @@
+{
+	"category" : "Emulator-GB-Graphics",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Tileset0Index",
+		"Tileset1Index" ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "GBGraphicsRAMTileSet",
+	"pools" : [
+		 ],
+	"super" : "GBGraphicsRAM",
+	"type" : "bytes" }

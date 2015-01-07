@@ -1,0 +1,24 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"+" : "jeanbaptistearnaud 12/28/2014 16:38",
+		"-" : "jeanbaptistearnaud 12/28/2014 16:38",
+		"and:" : "jeanbaptistearnaud 12/28/2014 16:38",
+		"bitAt:put:" : "jeanbaptistearnaud 12/28/2014 17:22",
+		"checkCarry" : "jeanbaptistearnaud 12/28/2014 16:38",
+		"checkFlags" : "jeanbaptistearnaud 12/28/2014 16:38",
+		"checkHalfCarry" : "jeanbaptistearnaud 12/28/2014 16:38",
+		"complement" : "jeanbaptistearnaud 12/28/2014 16:38",
+		"copy" : "jeanbaptistearnaud 12/28/2014 16:38",
+		"decrement" : "jeanbaptistearnaud 12/28/2014 16:38",
+		"increment" : "jeanbaptistearnaud 12/28/2014 16:38",
+		"initialize" : "jeanbaptistearnaud 12/28/2014 16:38",
+		"or:" : "jeanbaptistearnaud 12/28/2014 16:39",
+		"rl" : "jeanbaptistearnaud 12/28/2014 16:39",
+		"rlc" : "jeanbaptistearnaud 12/28/2014 16:39",
+		"rr" : "jeanbaptistearnaud 12/28/2014 16:39",
+		"rrc" : "jeanbaptistearnaud 12/28/2014 16:39",
+		"swap" : "jeanbaptistearnaud 12/28/2014 16:39",
+		"union:" : "jeanbaptistearnaud 12/28/2014 16:39",
+		"xor:" : "jeanbaptistearnaud 12/28/2014 16:39" } }

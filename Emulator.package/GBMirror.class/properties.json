@@ -1,0 +1,14 @@
+{
+	"category" : "Emulator-Proc-GB-Memory",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "GBMirror",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

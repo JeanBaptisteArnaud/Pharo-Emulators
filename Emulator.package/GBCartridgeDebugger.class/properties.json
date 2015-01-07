@@ -1,0 +1,18 @@
+{
+	"category" : "Emulator-Proc-Tools",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"gb",
+		"memory",
+		"breakpoints",
+		"debugBar",
+		"registerWatcher" ],
+	"name" : "GBCartridgeDebugger",
+	"pools" : [
+		 ],
+	"super" : "DynamicComposableModel",
+	"type" : "normal" }

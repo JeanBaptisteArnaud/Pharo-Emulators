@@ -1,0 +1,14 @@
+{
+	"category" : "Emulator-Proc-GB-Opcodes-Calls",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"condition" ],
+	"name" : "GBCALL",
+	"pools" : [
+		 ],
+	"super" : "GBOpCode",
+	"type" : "normal" }

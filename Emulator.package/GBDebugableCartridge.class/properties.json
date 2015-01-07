@@ -1,0 +1,16 @@
+{
+	"category" : "Emulator-GB-Cartridge",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"installedOpcode",
+		"cache",
+		"z80" ],
+	"name" : "GBDebugableCartridge",
+	"pools" : [
+		 ],
+	"super" : "GBCartridge",
+	"type" : "normal" }

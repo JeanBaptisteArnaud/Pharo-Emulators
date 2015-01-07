@@ -1,0 +1,18 @@
+{
+	"category" : "Emulator-GB-Interrupt",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"array",
+		"cpu",
+		"engine",
+		"interruptEnable",
+		"interruptFlag" ],
+	"name" : "GBInterrupt",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

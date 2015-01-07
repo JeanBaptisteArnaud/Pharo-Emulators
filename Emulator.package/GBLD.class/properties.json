@@ -1,0 +1,15 @@
+{
+	"category" : "Emulator-Proc-GB-Opcodes-16BitLoads",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"source",
+		"destination" ],
+	"name" : "GBLD",
+	"pools" : [
+		 ],
+	"super" : "GBOpCode",
+	"type" : "normal" }

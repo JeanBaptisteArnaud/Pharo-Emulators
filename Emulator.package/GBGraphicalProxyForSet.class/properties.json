@@ -1,0 +1,14 @@
+{
+	"category" : "Emulator-GB-Graphics-Tools",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "GBGraphicalProxyForSet",
+	"pools" : [
+		 ],
+	"super" : "GBGraphicalProxy",
+	"type" : "normal" }

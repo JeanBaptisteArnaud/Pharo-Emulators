@@ -1,0 +1,17 @@
+{
+	"category" : "Emulator-Proc-Tools-Components",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"tileMapName",
+		"panel",
+		"cache",
+		"tileMap" ],
+	"name" : "GBTileMapMorph",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

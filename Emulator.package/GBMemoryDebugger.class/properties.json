@@ -1,0 +1,19 @@
+{
+	"category" : "Emulator-Proc-Tools",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"memorySpec",
+		"mmu",
+		"tab",
+		"currentView",
+		"screen",
+		"surface" ],
+	"name" : "GBMemoryDebugger",
+	"pools" : [
+		 ],
+	"super" : "ComposableModel",
+	"type" : "normal" }

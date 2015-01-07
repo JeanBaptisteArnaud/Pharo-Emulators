@@ -1,0 +1,14 @@
+{
+	"category" : "Emulator-Proc-GB-Opcodes-8BitALU",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "GBDECHLm",
+	"pools" : [
+		 ],
+	"super" : "GBOpCode",
+	"type" : "normal" }

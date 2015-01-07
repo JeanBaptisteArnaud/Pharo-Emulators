@@ -1,0 +1,18 @@
+{
+	"category" : "Emulator-Proc-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"processorLog",
+		"registerLog",
+		"memoryLog",
+		"shouldlog",
+		"debugger" ],
+	"name" : "GBDebugGameboy",
+	"pools" : [
+		 ],
+	"super" : "GBGameboy",
+	"type" : "normal" }

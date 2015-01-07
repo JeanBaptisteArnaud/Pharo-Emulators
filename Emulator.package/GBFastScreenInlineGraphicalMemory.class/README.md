@@ -1,0 +1,1 @@
+inline the graphic into the screen

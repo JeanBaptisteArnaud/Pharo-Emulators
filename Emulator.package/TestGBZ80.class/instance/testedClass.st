@@ -1,0 +1,3 @@
+infrastructure
+testedClass
+	self subclassResponsibility.

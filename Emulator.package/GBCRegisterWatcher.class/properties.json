@@ -1,0 +1,17 @@
+{
+	"category" : "Emulator-Proc-Tools",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"gb",
+		"memory",
+		"specialRegisterStore",
+		"specialRegisterMorph" ],
+	"name" : "GBCRegisterWatcher",
+	"pools" : [
+		 ],
+	"super" : "DynamicComposableModel",
+	"type" : "normal" }

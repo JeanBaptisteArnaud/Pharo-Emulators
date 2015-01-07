@@ -1,0 +1,25 @@
+{
+	"category" : "Emulator-Proc-GB",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"AtomicCouplesRegisterMapMask",
+		"AtomicRegisterMapMask" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"parent",
+		"mmu",
+		"opCodesTable",
+		"extendedOpCodesTable",
+		"flags",
+		"stop",
+		"mainProcess",
+		"screen",
+		"process",
+		"debugCount",
+		"lastTen" ],
+	"name" : "GBZ80",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

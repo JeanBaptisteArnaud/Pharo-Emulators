@@ -1,0 +1,14 @@
+{
+	"category" : "Emulator-GB-Graphics",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "GBLCDC",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

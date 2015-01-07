@@ -1,0 +1,16 @@
+{
+	"category" : "Emulator-GB-Graphics",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"process",
+		"lcdTick",
+		"stop" ],
+	"name" : "GBScreenController",
+	"pools" : [
+		 ],
+	"super" : "GBHardware",
+	"type" : "normal" }

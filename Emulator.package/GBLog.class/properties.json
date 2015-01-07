@@ -1,0 +1,14 @@
+{
+	"category" : "Emulator-Proc-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "GBLog",
+	"pools" : [
+		 ],
+	"super" : "Array",
+	"type" : "variable" }

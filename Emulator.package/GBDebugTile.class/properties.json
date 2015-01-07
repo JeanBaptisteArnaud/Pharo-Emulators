@@ -1,0 +1,15 @@
+{
+	"category" : "Emulator-Proc-Tools",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"tileNumber",
+		"form" ],
+	"name" : "GBDebugTile",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

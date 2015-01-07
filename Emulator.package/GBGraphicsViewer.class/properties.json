@@ -1,0 +1,16 @@
+{
+	"category" : "Emulator-Proc-Tools",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"gb",
+		"tileSet1",
+		"tileSet0" ],
+	"name" : "GBGraphicsViewer",
+	"pools" : [
+		 ],
+	"super" : "ComposableModel",
+	"type" : "normal" }

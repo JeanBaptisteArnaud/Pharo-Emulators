@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"createOpcodeList" : "jeanbaptistearnaud 12/23/2014 16:39",
+		"createReadOpcodeLsit" : "jeanbaptistearnaud 12/23/2014 17:05",
+		"initialize" : "jeanbaptistearnaud 12/23/2014 16:42",
+		"installADebugOpCodeAt:" : "jeanbaptistearnaud 12/12/2014 14:51",
+		"opCodeFor:" : "jeanbaptistearnaud 12/23/2014 17:01",
+		"opCodeList" : "jeanbaptistearnaud 12/23/2014 16:56",
+		"rb:" : "jeanbaptistearnaud 12/27/2014 15:20",
+		"uninstallADebugOpCodeAt:" : "jeanbaptistearnaud 12/12/2014 14:51",
+		"wb:value:" : "jeanbaptistearnaud 12/27/2014 15:20" } }

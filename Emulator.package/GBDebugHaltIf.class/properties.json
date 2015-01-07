@@ -1,0 +1,14 @@
+{
+	"category" : "Emulator-Tools-Debug",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "GBDebugHaltIf",
+	"pools" : [
+		 ],
+	"super" : "GBDebugHalt",
+	"type" : "normal" }

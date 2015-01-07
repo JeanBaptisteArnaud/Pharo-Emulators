@@ -1,0 +1,14 @@
+{
+	"category" : "Emulator-Proc-GB-Opcodes-Rotates&Shifts-HLm",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "GBRLHLm",
+	"pools" : [
+		 ],
+	"super" : "GBOpCode",
+	"type" : "normal" }

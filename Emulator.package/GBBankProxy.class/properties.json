@@ -1,0 +1,15 @@
+{
+	"category" : "Emulator-Proc-GB",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"type",
+		"bankDictionary" ],
+	"name" : "GBBankProxy",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "variable" }

@@ -1,0 +1,15 @@
+{
+	"category" : "Emulator-Proc-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"gb",
+		"history" ],
+	"name" : "GBDebugDatas",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

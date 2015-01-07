@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"newForGB:andValue:" : "jeanbaptistearnaud 1/1/2014 19:38",
+		"newForGB:andValue:notify:" : "jeanbaptistearnaud 1/1/2014 20:01" },
+	"instance" : {
+		"doesNotUnderstand:" : "jeanbaptistearnaud 1/1/2014 20:03",
+		"gb" : "jeanbaptistearnaud 1/1/2014 19:38",
+		"gb:" : "jeanbaptistearnaud 1/1/2014 19:38",
+		"isBreakpointProxy" : "jeanbaptistearnaud 1/1/2014 19:39",
+		"isInteger" : "jeanbaptistearnaud 1/1/2014 19:39",
+		"notifying" : "jeanbaptistearnaud 1/1/2014 20:04",
+		"notifying:" : "jeanbaptistearnaud 1/1/2014 20:04",
+		"originalValue" : "jeanbaptistearnaud 1/1/2014 19:30",
+		"originalValue:" : "jeanbaptistearnaud 1/1/2014 19:30" } }

@@ -1,0 +1,14 @@
+{
+	"category" : "Emulator-Proc-GB-Opcodes-BitManipulations",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"index" ],
+	"name" : "GBBITHLm",
+	"pools" : [
+		 ],
+	"super" : "GBOpCode",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Emulator-Proc-GB-Opcodes-Rotates&Shifts",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"valueHandler" ],
+	"name" : "GBRL",
+	"pools" : [
+		 ],
+	"super" : "GBOpCode",
+	"type" : "normal" }

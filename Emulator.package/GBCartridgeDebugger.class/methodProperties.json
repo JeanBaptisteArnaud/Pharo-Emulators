@@ -1,0 +1,25 @@
+{
+	"class" : {
+		"debuggerButtonsBar:" : "jeanbaptistearnaud 2/7/2014 15:35",
+		"defaultSpec" : "jb 2/14/2014 11:28",
+		"newForGB:" : "jeanbaptistearnaud 12/18/2013 11:40",
+		"title" : "jeanbaptistearnaud 12/18/2013 11:20" },
+	"instance" : {
+		"Bproceed" : "jeanbaptistearnaud 1/1/2014 16:38",
+		"Bstep" : "jeanbaptistearnaud 1/1/2014 16:38",
+		"Bstop" : "jeanbaptistearnaud 2/7/2014 15:35",
+		"breakpoint:" : "jeanbaptistearnaud 1/14/2014 13:34",
+		"gb" : "jeanbaptistearnaud 12/18/2013 11:37",
+		"gb:" : "jeanbaptistearnaud 12/18/2013 11:37",
+		"gbStoppedAt:" : "jeanbaptistearnaud 12/4/2014 14:23",
+		"initialExtent" : "jeanbaptistearnaud 12/19/2013 13:16",
+		"initialize" : "jeanbaptistearnaud 1/1/2014 16:40",
+		"initializePresenter" : "jeanbaptistearnaud 2/7/2014 15:38",
+		"initializeWidgets" : "jb 2/14/2014 11:26",
+		"memory" : "jeanbaptistearnaud 12/19/2013 15:29",
+		"prepareMemory:" : "jeanbaptistearnaud 12/19/2013 15:40",
+		"proceed" : "jeanbaptistearnaud 1/1/2014 16:46",
+		"registerWatcher" : "jb 2/14/2014 11:25",
+		"screen" : "jeanbaptistearnaud 1/1/2014 16:29",
+		"stepOpCode" : "jeanbaptistearnaud 1/1/2014 19:22",
+		"stop" : "jb 2/14/2014 11:29" } }

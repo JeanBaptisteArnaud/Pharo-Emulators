@@ -1,0 +1,14 @@
+{
+	"category" : "Emulator-Proc-Tools",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "GBProcessorDebugger",
+	"pools" : [
+		 ],
+	"super" : "ComposableModel",
+	"type" : "normal" }

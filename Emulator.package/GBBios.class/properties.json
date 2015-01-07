@@ -1,0 +1,14 @@
+{
+	"category" : "Emulator-GB-Memory",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"accessedBios" ],
+	"name" : "GBBios",
+	"pools" : [
+		 ],
+	"super" : "GBMemoryChunk",
+	"type" : "variable" }

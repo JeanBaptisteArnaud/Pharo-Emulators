@@ -1,0 +1,14 @@
+{
+	"category" : "Emulator-GB-Sounds",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "GBWavePattern",
+	"pools" : [
+		 ],
+	"super" : "GBHardware",
+	"type" : "normal" }

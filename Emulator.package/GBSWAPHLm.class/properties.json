@@ -1,0 +1,14 @@
+{
+	"category" : "Emulator-Proc-GB-Opcodes-Miscellaneous",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "GBSWAPHLm",
+	"pools" : [
+		 ],
+	"super" : "GBOpCode",
+	"type" : "normal" }

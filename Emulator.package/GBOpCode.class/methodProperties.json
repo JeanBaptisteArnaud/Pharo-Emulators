@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"createAllExtendedOpCodes" : "jb 6/5/2013 12:54",
+		"createAllOpCodes" : "jb 6/5/2013 14:22",
+		"createAllOpCodesForProcessor:" : "jeanbaptistearnaud 12/7/2014 20:43",
+		"createExtendSubclass:instructionValue:" : "jb 6/5/2013 12:55",
+		"createSubclass:instructionValue:" : "jb 6/5/2013 14:21",
+		"extendedOpCodesList" : "jb 6/5/2013 12:38",
+		"extendedOpCodesList1" : "jb 6/5/2013 12:36",
+		"extendedOpCodesList2" : "jb 6/5/2013 12:36",
+		"mergeSubclasses:into:" : "jb 6/5/2013 13:06",
+		"newInstruction:forProcessor:withArg:" : "jenabaptistearnaud 8/30/2013 16:19",
+		"newInstruction:forProcessor:withArg:tick:" : "jenabaptistearnaud 8/30/2013 16:23",
+		"opCodesList" : "jb 6/5/2013 14:27" },
+	"instance" : {
+		"interpret" : "jb 9/22/2014 15:24",
+		"tick" : "jenabaptistearnaud 8/30/2013 16:21" } }

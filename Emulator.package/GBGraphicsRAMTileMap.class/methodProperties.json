@@ -1,0 +1,10 @@
+{
+	"class" : {
+		"beginAddress" : "jeanbaptistearnaud 9/7/2013 12:14",
+		"endAddress" : "jb 9/17/2014 16:53",
+		"size" : "jeanbaptistearnaud 12/3/2014 12:50" },
+	"instance" : {
+		"forceUpdateTileMap0:using:pattern:" : "jeanbaptistearnaud 12/3/2014 13:51",
+		"initialize" : "jeanbaptistearnaud 12/3/2014 12:51",
+		"updateTileMap0:using:pattern:" : "jeanbaptistearnaud 12/3/2014 13:02",
+		"updateTileMap1:using:pattern:" : "jeanbaptistearnaud 12/3/2014 13:04" } }

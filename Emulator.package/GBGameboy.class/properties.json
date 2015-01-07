@@ -1,0 +1,21 @@
+{
+	"category" : "Emulator-GB-Engine",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"engine",
+		"screen",
+		"processor",
+		"runProcess",
+		"endFrame",
+		"stop",
+		"mmu",
+		"interrupt" ],
+	"name" : "GBGameboy",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

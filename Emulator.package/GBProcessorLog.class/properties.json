@@ -1,0 +1,16 @@
+{
+	"category" : "Emulator-Proc-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"processorLog",
+		"registerLog",
+		"memoryLog" ],
+	"name" : "GBProcessorLog",
+	"pools" : [
+		 ],
+	"super" : "Array",
+	"type" : "variable" }

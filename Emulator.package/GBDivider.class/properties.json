@@ -1,0 +1,14 @@
+{
+	"category" : "Emulator-GB-Interrupt",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "GBDivider",
+	"pools" : [
+		 ],
+	"super" : "GBHardware",
+	"type" : "normal" }

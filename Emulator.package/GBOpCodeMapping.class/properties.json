@@ -1,0 +1,15 @@
+{
+	"category" : "Emulator-Proc-GB",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"OpCode",
+		"opCodesMapping" ],
+	"name" : "GBOpCodeMapping",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

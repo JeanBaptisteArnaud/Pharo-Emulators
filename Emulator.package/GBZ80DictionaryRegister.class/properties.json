@@ -1,0 +1,14 @@
+{
+	"category" : "Emulator-Proc-GB",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jb 9/15/2014 15:04",
+	"instvars" : [
+		"registers" ],
+	"name" : "GBZ80DictionaryRegister",
+	"pools" : [
+		 ],
+	"super" : "GBZ80",
+	"type" : "normal" }

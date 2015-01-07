@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"defaultSpec" : "jeanbaptistearnaud 10/19/2013 15:59",
+		"title" : "jeanbaptistearnaud 10/19/2013 15:59" },
+	"instance" : {
+		"initialize" : "jeanbaptistearnaud 10/19/2013 16:17",
+		"makeSnapshot" : "jeanbaptistearnaud 10/19/2013 17:02",
+		"postSnapshot" : "jeanbaptistearnaud 10/19/2013 16:19",
+		"preSnapshot" : "jeanbaptistearnaud 10/19/2013 16:17",
+		"slotsToDebug:" : "jeanbaptistearnaud 10/19/2013 15:59",
+		"target" : "jeanbaptistearnaud 10/19/2013 15:59",
+		"target:" : "jeanbaptistearnaud 10/19/2013 15:59" } }

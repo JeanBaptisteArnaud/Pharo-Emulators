@@ -1,0 +1,20 @@
+{
+	"category" : "Emulator-Proc-GB-Tools",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"zero",
+		"sub",
+		"carry",
+		"halfCarry",
+		"interupt",
+		"halt",
+		"myRegister" ],
+	"name" : "GBFlags",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

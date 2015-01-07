@@ -1,0 +1,15 @@
+{
+	"category" : "Emulator-GB-Graphics-Tools",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"memory",
+		"notifier" ],
+	"name" : "GBGraphicalProxy",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

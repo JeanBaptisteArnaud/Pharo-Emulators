@@ -1,0 +1,20 @@
+{
+	"category" : "Emulator-GB-Cartridge",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"CartridgeType",
+		"DestinationCode",
+		"LicenseCode",
+		"RamSize",
+		"RomSize" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"banks",
+		"currentReadBank",
+		"currentWriteBank" ],
+	"name" : "GBCartridge",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"defaultSpec" : "jeanbaptistearnaud 1/1/2014 16:31",
+		"title" : "jeanbaptistearnaud 9/5/2013 17:27" },
+	"instance" : {
+		"framebufferToLCD" : "jeanbaptistearnaud 12/3/2014 14:41",
+		"initialExtent" : "jeanbaptistearnaud 9/5/2013 17:27",
+		"initialize" : "jeanbaptistearnaud 12/3/2014 14:41",
+		"initializePresenter" : "jb 10/10/2013 12:05",
+		"initializeWidgets" : "jb 9/18/2014 15:05",
+		"newForm" : "jeanbaptistearnaud 12/3/2014 14:58",
+		"openWithSpec" : "jb 10/10/2013 12:06",
+		"rSize" : "jeanbaptistearnaud 9/5/2013 17:27",
+		"screen" : "jb 10/17/2013 12:16",
+		"screenSize" : "jeanbaptistearnaud 12/3/2014 14:58" } }

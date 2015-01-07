@@ -1,0 +1,14 @@
+{
+	"category" : "Emulator-Proc-GB-Tools",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "GBRegister8bits",
+	"pools" : [
+		 ],
+	"super" : "GBRegister",
+	"type" : "normal" }

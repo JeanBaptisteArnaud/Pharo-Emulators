@@ -1,0 +1,25 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"initializeBiosPhase1" : "jb 11/21/2014 15:33",
+		"initializeBiosPhase2" : "jb 11/25/2014 14:54",
+		"initializeBiosPhase3" : "jb 11/25/2014 14:54",
+		"initializeBiosPhase4" : "jb 11/25/2014 14:54",
+		"initializeBiosPhase5" : "jb 11/25/2014 14:54",
+		"initializeBiosPhase6" : "jeanbaptistearnaud 12/4/2014 14:56",
+		"initializeBiosPhase7" : "jeanbaptistearnaud 12/4/2014 15:13",
+		"initializeBiosPhase8" : "jeanbaptistearnaud 12/7/2014 22:55",
+		"initializeBiosPhase9" : "jeanbaptistearnaud 12/7/2014 22:55",
+		"testBiosPhase1" : "jb 9/22/2014 16:26",
+		"testBiosPhase2" : "jb 9/22/2014 16:26",
+		"testBiosPhase3" : "jb 9/23/2014 13:03",
+		"testBiosPhase3Graphics" : "jeanbaptistearnaud 12/3/2014 13:42",
+		"testBiosPhase4" : "jeanbaptistearnaud 12/3/2014 13:57",
+		"testBiosPhase5" : "jeanbaptistearnaud 12/3/2014 13:57",
+		"testBiosPhase5Graphics" : "jb 11/26/2014 17:55",
+		"testBiosPhase6Graphics" : "jeanbaptistearnaud 12/4/2014 15:10",
+		"testBiosPhase7Graphics" : "jeanbaptistearnaud 12/4/2014 15:09",
+		"testBiosPhase8" : "jeanbaptistearnaud 12/7/2014 23:38",
+		"testBiosPhase9" : "jeanbaptistearnaud 12/7/2014 22:55",
+		"testBiosValidityRom" : "jeanbaptistearnaud 12/7/2014 23:41" } }

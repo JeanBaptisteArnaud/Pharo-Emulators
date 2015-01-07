@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"defaultSpec" : "jb 11/26/2014 15:04",
+		"newForGB:" : "jb 11/26/2014 14:57",
+		"title" : "jb 11/26/2014 14:52" },
+	"instance" : {
+		"gb" : "jb 11/26/2014 14:57",
+		"gb:" : "jb 11/26/2014 14:57",
+		"initialExtent" : "jb 11/26/2014 14:52",
+		"initializePresenter" : "jb 11/26/2014 14:53",
+		"initializeWidgets" : "jeanbaptistearnaud 12/27/2014 17:37",
+		"tileSet0" : "jb 11/26/2014 14:54",
+		"tileSet1" : "jb 11/26/2014 14:54" } }

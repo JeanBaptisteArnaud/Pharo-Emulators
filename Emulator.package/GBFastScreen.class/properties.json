@@ -1,0 +1,16 @@
+{
+	"category" : "Emulator-GB-Graphics",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"screenContainer",
+		"screen",
+		"currentWinLine" ],
+	"name" : "GBFastScreen",
+	"pools" : [
+		 ],
+	"super" : "ComposableModel",
+	"type" : "normal" }

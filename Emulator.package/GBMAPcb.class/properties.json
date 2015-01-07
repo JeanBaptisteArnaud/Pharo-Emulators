@@ -1,0 +1,14 @@
+{
+	"category" : "Emulator-Proc-GB-Opcodes",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "GBMAPcb",
+	"pools" : [
+		 ],
+	"super" : "GBOpCode",
+	"type" : "normal" }

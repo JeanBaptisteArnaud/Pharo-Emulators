@@ -1,0 +1,15 @@
+{
+	"category" : "Emulator-GB-Graphics-Tools",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"bitBltPool",
+		"destForm" ],
+	"name" : "GBTilesToBackground",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

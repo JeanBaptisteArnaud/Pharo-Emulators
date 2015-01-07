@@ -1,0 +1,1 @@
+Copyright to another emulator that i copy the logic my screen was too slow

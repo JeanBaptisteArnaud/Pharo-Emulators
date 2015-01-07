@@ -1,0 +1,17 @@
+{
+	"category" : "Emulator-Proc-GB-Tools",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"flag",
+		"name",
+		"previousValue",
+		"value" ],
+	"name" : "GBRegister",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

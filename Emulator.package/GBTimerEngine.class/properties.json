@@ -1,0 +1,23 @@
+{
+	"category" : "Emulator-GB-Engine",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"memory",
+		"screen",
+		"stat",
+		"lcdTicks",
+		"divTicks",
+		"processorTicks",
+		"timerTicks",
+		"overflow",
+		"timerFrequences",
+		"endFrame" ],
+	"name" : "GBTimerEngine",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

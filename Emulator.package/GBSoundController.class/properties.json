@@ -1,0 +1,14 @@
+{
+	"category" : "Emulator-GB-Sounds",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "GBSoundController",
+	"pools" : [
+		 ],
+	"super" : "GBHardware",
+	"type" : "normal" }

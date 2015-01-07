@@ -1,0 +1,14 @@
+{
+	"category" : "Emulator-Proc-GB-Opcodes-Jumps",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"condition" ],
+	"name" : "GBJP",
+	"pools" : [
+		 ],
+	"super" : "GBOpCode",
+	"type" : "normal" }

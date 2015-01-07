@@ -1,0 +1,18 @@
+{
+	"category" : "Emulator-GB-Interrupt",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"VBlank",
+		"LCDSTAT",
+		"Timer",
+		"Serial",
+		"Joypad" ],
+	"name" : "GBInterruptFlag",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

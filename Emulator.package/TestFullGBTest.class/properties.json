@@ -1,0 +1,14 @@
+{
+	"category" : "Emulator-Proc-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "TestFullGBTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

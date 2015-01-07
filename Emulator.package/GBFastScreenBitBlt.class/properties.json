@@ -1,0 +1,25 @@
+{
+	"category" : "Emulator-GB-Graphics",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"formTileMap0",
+		"formTileMap1",
+		"bitBltPool0",
+		"bitBltPool1",
+		"backgroundDirty",
+		"cacheCalculatedTileMap",
+		"palette",
+		"tilesDirty",
+		"updateBackgroundDataList",
+		"updateBackgroundTileList",
+		"updateTilesList",
+		"bitbltScreen" ],
+	"name" : "GBFastScreenBitBlt",
+	"pools" : [
+		 ],
+	"super" : "GBFastScreen",
+	"type" : "normal" }

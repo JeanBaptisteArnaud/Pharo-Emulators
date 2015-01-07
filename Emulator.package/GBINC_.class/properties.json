@@ -1,0 +1,14 @@
+{
+	"category" : "Emulator-Proc-GB-Opcodes-16BitALU",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"valueHandler" ],
+	"name" : "GBINC_",
+	"pools" : [
+		 ],
+	"super" : "GBOpCode",
+	"type" : "normal" }

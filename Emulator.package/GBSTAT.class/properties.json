@@ -1,0 +1,14 @@
+{
+	"category" : "Emulator-GB-Engine",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"memory" ],
+	"name" : "GBSTAT",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

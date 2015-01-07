@@ -1,0 +1,14 @@
+{
+	"category" : "Emulator-Proc-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"gameboy" ],
+	"name" : "TestBios",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

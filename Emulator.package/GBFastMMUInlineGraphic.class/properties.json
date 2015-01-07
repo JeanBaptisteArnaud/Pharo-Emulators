@@ -1,0 +1,14 @@
+{
+	"category" : "Emulator-Proc-GB",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "GBFastMMUInlineGraphic",
+	"pools" : [
+		 ],
+	"super" : "GBFastMMU",
+	"type" : "normal" }

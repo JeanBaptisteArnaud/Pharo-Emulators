@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"newForR1:R2:" : "jb 6/3/2013 16:36" },
+	"instance" : {
+		"+" : "jb 10/17/2013 18:41",
+		"checkCarry" : "jeanbaptiste 8/12/2013 18:54",
+		"checkHalfCarry" : "jeanbaptiste 8/12/2013 18:54",
+		"decrement" : "arnaudjeanbaptiste 7/15/2013 00:15",
+		"increment" : "arnaudjeanbaptiste 7/17/2013 21:26",
+		"printOn:" : "jeanbaptistearnaud 12/28/2014 13:59",
+		"pushAt:" : "jeanbaptistearnaud 9/5/2013 12:48",
+		"register1" : "jb 6/3/2013 16:39",
+		"register1:" : "jb 6/3/2013 16:39",
+		"register2" : "jb 6/3/2013 16:39",
+		"register2:" : "jb 6/3/2013 16:39",
+		"value" : "arnaudjeanbaptiste 7/14/2013 23:49",
+		"value:" : "arnaudjeanbaptiste 7/14/2013 19:24" } }

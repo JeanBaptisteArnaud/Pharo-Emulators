@@ -1,0 +1,14 @@
+{
+	"category" : "Emulator-GB-Graphics",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "GBGraphicsRAMTileMap",
+	"pools" : [
+		 ],
+	"super" : "GBGraphicsRAM",
+	"type" : "bytes" }

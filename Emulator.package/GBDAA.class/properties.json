@@ -1,0 +1,14 @@
+{
+	"category" : "Emulator-Proc-GB-Opcodes-Miscellaneous",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "GBDAA",
+	"pools" : [
+		 ],
+	"super" : "GBOpCode",
+	"type" : "normal" }

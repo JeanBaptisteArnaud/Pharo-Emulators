@@ -1,0 +1,15 @@
+{
+	"category" : "Emulator-Tools-Debug",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"index",
+		"opCode" ],
+	"name" : "GBDebugCartridgeEntry",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

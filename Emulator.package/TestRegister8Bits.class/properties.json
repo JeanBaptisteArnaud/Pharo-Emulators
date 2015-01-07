@@ -1,0 +1,14 @@
+{
+	"category" : "Emulator-Proc-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "TestRegister8Bits",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

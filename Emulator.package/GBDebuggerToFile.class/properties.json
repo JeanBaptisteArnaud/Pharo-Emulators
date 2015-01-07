@@ -1,0 +1,14 @@
+{
+	"category" : "Emulator-Proc-Tools",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "GBDebuggerToFile",
+	"pools" : [
+		 ],
+	"super" : "GBDebugger",
+	"type" : "normal" }

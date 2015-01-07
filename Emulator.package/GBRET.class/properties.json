@@ -1,0 +1,14 @@
+{
+	"category" : "Emulator-Proc-GB-Opcodes-Returns",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"condition" ],
+	"name" : "GBRET",
+	"pools" : [
+		 ],
+	"super" : "GBOpCode",
+	"type" : "normal" }

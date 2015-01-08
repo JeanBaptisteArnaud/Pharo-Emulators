@@ -1,12 +1,12 @@
 {
 	"class" : {
-		"defaultSpec" : "jeanbaptistearnaud 10/19/2013 15:59",
-		"title" : "jeanbaptistearnaud 10/19/2013 15:59" },
+		"defaultSpec" : "JeanBaptisteArnaud 1/7/2015 13:27:51",
+		"title" : "JeanBaptisteArnaud 1/7/2015 13:27:51" },
 	"instance" : {
-		"initialize" : "jeanbaptistearnaud 10/19/2013 16:17",
-		"makeSnapshot" : "jeanbaptistearnaud 10/19/2013 17:02",
-		"postSnapshot" : "jeanbaptistearnaud 10/19/2013 16:19",
-		"preSnapshot" : "jeanbaptistearnaud 10/19/2013 16:17",
-		"slotsToDebug:" : "jeanbaptistearnaud 10/19/2013 15:59",
-		"target" : "jeanbaptistearnaud 10/19/2013 15:59",
-		"target:" : "jeanbaptistearnaud 10/19/2013 15:59" } }
+		"initialize" : "JeanBaptisteArnaud 1/7/2015 13:27:51",
+		"makeSnapshot" : "JeanBaptisteArnaud 1/7/2015 13:27:51",
+		"postSnapshot" : "JeanBaptisteArnaud 1/7/2015 13:27:51",
+		"preSnapshot" : "JeanBaptisteArnaud 1/7/2015 13:27:51",
+		"slotsToDebug:" : "JeanBaptisteArnaud 1/7/2015 13:27:51",
+		"target" : "JeanBaptisteArnaud 1/7/2015 13:27:51",
+		"target:" : "JeanBaptisteArnaud 1/7/2015 13:27:51" } }

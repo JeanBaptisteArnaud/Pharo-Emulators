@@ -1,0 +1,3 @@
+accessing
+bGTileMapDisplaySelect
+	^ BGTileMapDisplaySelect

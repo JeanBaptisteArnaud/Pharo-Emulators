@@ -1,14 +1,14 @@
 {
 	"class" : {
-		"newForGB:andValue:" : "jeanbaptistearnaud 1/1/2014 19:38",
-		"newForGB:andValue:notify:" : "jeanbaptistearnaud 1/1/2014 20:01" },
+		"newForGB:andValue:" : "JeanBaptisteArnaud 1/7/2015 13:27:51",
+		"newForGB:andValue:notify:" : "JeanBaptisteArnaud 1/7/2015 13:27:51" },
 	"instance" : {
-		"doesNotUnderstand:" : "jeanbaptistearnaud 1/1/2014 20:03",
-		"gb" : "jeanbaptistearnaud 1/1/2014 19:38",
-		"gb:" : "jeanbaptistearnaud 1/1/2014 19:38",
-		"isBreakpointProxy" : "jeanbaptistearnaud 1/1/2014 19:39",
-		"isInteger" : "jeanbaptistearnaud 1/1/2014 19:39",
-		"notifying" : "jeanbaptistearnaud 1/1/2014 20:04",
-		"notifying:" : "jeanbaptistearnaud 1/1/2014 20:04",
-		"originalValue" : "jeanbaptistearnaud 1/1/2014 19:30",
-		"originalValue:" : "jeanbaptistearnaud 1/1/2014 19:30" } }
+		"doesNotUnderstand:" : "JeanBaptisteArnaud 1/7/2015 13:27:51",
+		"gb" : "JeanBaptisteArnaud 1/7/2015 13:27:51",
+		"gb:" : "JeanBaptisteArnaud 1/7/2015 13:27:51",
+		"isBreakpointProxy" : "JeanBaptisteArnaud 1/7/2015 13:27:51",
+		"isInteger" : "JeanBaptisteArnaud 1/7/2015 13:27:51",
+		"notifying" : "JeanBaptisteArnaud 1/7/2015 13:27:51",
+		"notifying:" : "JeanBaptisteArnaud 1/7/2015 13:27:51",
+		"originalValue" : "JeanBaptisteArnaud 1/7/2015 13:27:51",
+		"originalValue:" : "JeanBaptisteArnaud 1/7/2015 13:27:51" } }

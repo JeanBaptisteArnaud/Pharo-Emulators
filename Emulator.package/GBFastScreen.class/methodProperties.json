@@ -1,15 +1,15 @@
 {
 	"class" : {
-		"defaultSpec" : "jeanbaptistearnaud 1/1/2014 16:31",
-		"title" : "jeanbaptistearnaud 9/5/2013 17:27" },
+		"defaultSpec" : "JeanBaptisteArnaud 1/7/2015 13:27:51",
+		"title" : "JeanBaptisteArnaud 1/7/2015 13:27:51" },
 	"instance" : {
-		"framebufferToLCD" : "jeanbaptistearnaud 12/3/2014 14:41",
-		"initialExtent" : "jeanbaptistearnaud 9/5/2013 17:27",
-		"initialize" : "jeanbaptistearnaud 12/3/2014 14:41",
-		"initializePresenter" : "jb 10/10/2013 12:05",
-		"initializeWidgets" : "jb 9/18/2014 15:05",
-		"newForm" : "jeanbaptistearnaud 12/3/2014 14:58",
-		"openWithSpec" : "jb 10/10/2013 12:06",
-		"rSize" : "jeanbaptistearnaud 9/5/2013 17:27",
-		"screen" : "jb 10/17/2013 12:16",
-		"screenSize" : "jeanbaptistearnaud 12/3/2014 14:58" } }
+		"framebufferToLCD" : "JeanBaptisteArnaud 1/7/2015 13:27:51",
+		"initialExtent" : "JeanBaptisteArnaud 1/7/2015 13:27:51",
+		"initialize" : "JeanBaptisteArnaud 1/7/2015 13:27:51",
+		"initializePresenter" : "JeanBaptisteArnaud 1/7/2015 13:27:51",
+		"initializeWidgets" : "JeanBaptisteArnaud 1/7/2015 13:27:51",
+		"newForm" : "JeanBaptisteArnaud 1/7/2015 13:27:51",
+		"openWithSpec" : "JeanBaptisteArnaud 1/7/2015 13:27:51",
+		"rSize" : "JeanBaptisteArnaud 1/7/2015 13:27:51",
+		"screen" : "JeanBaptisteArnaud 1/7/2015 13:27:51",
+		"screenSize" : "JeanBaptisteArnaud 1/7/2015 13:27:51" } }

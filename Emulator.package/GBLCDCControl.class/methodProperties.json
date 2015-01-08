@@ -1,0 +1,23 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"asValue" : "jeanbaptistearnaud 1/8/2015 17:35",
+		"bGDisplay" : "jeanbaptistearnaud 1/8/2015 17:36",
+		"bGDisplay:" : "jeanbaptistearnaud 1/8/2015 17:36",
+		"bGTileMapDisplaySelect" : "jeanbaptistearnaud 1/8/2015 17:36",
+		"bGTileMapDisplaySelect:" : "jeanbaptistearnaud 1/8/2015 17:36",
+		"bGWindowTileDataSelect" : "jeanbaptistearnaud 1/8/2015 17:36",
+		"bGWindowTileDataSelect:" : "jeanbaptistearnaud 1/8/2015 17:36",
+		"initialize" : "jeanbaptistearnaud 1/8/2015 17:33",
+		"lCDDisplayEnable" : "jeanbaptistearnaud 1/8/2015 17:36",
+		"lCDDisplayEnable:" : "jeanbaptistearnaud 1/8/2015 17:36",
+		"oBJSpriteDisplayEnable" : "jeanbaptistearnaud 1/8/2015 17:36",
+		"oBJSpriteDisplayEnable:" : "jeanbaptistearnaud 1/8/2015 17:36",
+		"oBJSpriteSize" : "jeanbaptistearnaud 1/8/2015 17:36",
+		"oBJSpriteSize:" : "jeanbaptistearnaud 1/8/2015 17:36",
+		"setValue:" : "jeanbaptistearnaud 1/8/2015 17:35",
+		"windowDisplayEnable" : "jeanbaptistearnaud 1/8/2015 17:36",
+		"windowDisplayEnable:" : "jeanbaptistearnaud 1/8/2015 17:36",
+		"windowTileMapDisplaySelect" : "jeanbaptistearnaud 1/8/2015 17:36",
+		"windowTileMapDisplaySelect:" : "jeanbaptistearnaud 1/8/2015 17:36" } }

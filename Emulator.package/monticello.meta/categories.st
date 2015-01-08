@@ -2,6 +2,7 @@ SystemOrganization addCategory: #Emulator!
 SystemOrganization addCategory: 'Emulator-GB-Cartridge'!
 SystemOrganization addCategory: 'Emulator-GB-Engine'!
 SystemOrganization addCategory: 'Emulator-GB-Graphics'!
+SystemOrganization addCategory: 'Emulator-GB-Graphics-Registers'!
 SystemOrganization addCategory: 'Emulator-GB-Graphics-Tests'!
 SystemOrganization addCategory: 'Emulator-GB-Graphics-Tools'!
 SystemOrganization addCategory: 'Emulator-GB-Interrupt'!
@@ -28,3 +29,4 @@ SystemOrganization addCategory: 'Emulator-Proc-Tests'!
 SystemOrganization addCategory: 'Emulator-Proc-Tools'!
 SystemOrganization addCategory: 'Emulator-Proc-Tools-Components'!
 SystemOrganization addCategory: 'Emulator-Tools-Debug'!
+SystemOrganization addCategory: 'Emulator-Tools-Debugger'!

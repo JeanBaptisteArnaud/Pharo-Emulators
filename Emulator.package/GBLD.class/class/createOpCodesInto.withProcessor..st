@@ -71,7 +71,7 @@ createOpCodesInto: anArray withProcessor: aProcessor
 	anArray at: 70 put: ( self newInstruction: 70 forProcessor: aProcessor withArg: {aProcessor l. aProcessor b. }tick: 4).
 
 	"GBLDrHLm_b"
-	anArray at: 71 put: ( self newInstruction: 71 forProcessor: aProcessor withArg: {aProcessor b. [:arg | aProcessor setMemoryAtHL: arg] }tick: 12).
+	anArray at: 71 put: ( self newInstruction: 71 forProcessor: aProcessor withArg: {[aProcessor memoryAtHL]. aProcessor b.  }tick: 12).
 
 	"GBLDrr_ba"
 	anArray at: 72 put: ( self newInstruction: 72 forProcessor: aProcessor withArg: {aProcessor a. aProcessor b. }tick: 4).
@@ -95,7 +95,7 @@ createOpCodesInto: anArray withProcessor: aProcessor
 	anArray at: 78 put: ( self newInstruction: 78 forProcessor: aProcessor withArg: {aProcessor l. aProcessor c. }tick: 4).
 
 	"GBLDrHLm_c"
-	anArray at: 79 put: ( self newInstruction: 79 forProcessor: aProcessor withArg: {aProcessor c. [:arg | aProcessor setMemoryAtHL: arg] }tick: 12).
+	anArray at: 79 put: ( self newInstruction: 79 forProcessor: aProcessor withArg: { [aProcessor memoryAtHL]. aProcessor c. }tick: 12).
 
 	"GBLDrr_ca"
 	anArray at: 80 put: ( self newInstruction: 80 forProcessor: aProcessor withArg: {aProcessor a. aProcessor c }tick: 4).
@@ -254,7 +254,7 @@ createOpCodesInto: anArray withProcessor: aProcessor
 
 	"GBLDA"
 	"GBLDABCm" 
-	anArray at: 11 put: ( self newInstruction: 11 forProcessor: aProcessor withArg: { }tick: 8).
+	anArray at: 11 put: ( self newInstruction: 11 forProcessor: aProcessor withArg: {[aProcessor memoryAtBC]. aProcessor a}tick: 8).
 
 	"GBLDADEm"
 	anArray at: 27 put: ( self newInstruction: 27 forProcessor: aProcessor withArg: {[ aProcessor memoryAt: (aProcessor de value)] . aProcessor a}tick: 8).

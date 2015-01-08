@@ -1,3 +1,3 @@
 as yet unclassified
 behavior
-	valueHandler shiftLeft: 1
+	valueHandler sla

@@ -1,0 +1,14 @@
+{
+	"category" : "Emulator-Tools-Debugger",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"rootParserContext" ],
+	"name" : "GBDebugSession",
+	"pools" : [
+		 ],
+	"super" : "DebugSession",
+	"type" : "normal" }

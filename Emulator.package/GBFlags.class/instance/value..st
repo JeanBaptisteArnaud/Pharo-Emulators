@@ -5,4 +5,4 @@ value: anInteger
 		sub :=  ((anInteger bitAt: 2) =  1).
 		carry :=  ((anInteger bitAt: 3) =  1).
 		halfCarry := ((anInteger bitAt: 4) =  1).
-		interupt := ((anInteger bitAt: 5) =  1).
+		"interupt := ((anInteger bitAt: 5) =  1)."

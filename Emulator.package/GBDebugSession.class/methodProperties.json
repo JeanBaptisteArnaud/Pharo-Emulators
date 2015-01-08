@@ -1,0 +1,19 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"createStepPredicateForPredicate:" : "jeanbaptistearnaud 1/7/2015 17:47",
+		"isActive" : "jeanbaptistearnaud 1/7/2015 17:47",
+		"isActive:" : "jeanbaptistearnaud 1/7/2015 17:47",
+		"namedProductionPredicate:" : "jeanbaptistearnaud 1/7/2015 17:47",
+		"parseMethodEntryPredicate" : "jeanbaptistearnaud 1/7/2015 17:47",
+		"parseMethodPredicate" : "jeanbaptistearnaud 1/7/2015 17:47",
+		"process:context:" : "jeanbaptistearnaud 1/7/2015 17:47",
+		"rootParser" : "jeanbaptistearnaud 1/7/2015 17:47",
+		"rootParserContext" : "jeanbaptistearnaud 1/7/2015 17:47",
+		"stepOverInitialInstructionForContext:" : "jeanbaptistearnaud 1/7/2015 17:47",
+		"stepToNextNonDelegateParserFromContext:" : "jeanbaptistearnaud 1/7/2015 17:47",
+		"stepToNextParserFromContext:" : "jeanbaptistearnaud 1/7/2015 17:47",
+		"stepToNextProduction:fromContext:" : "jeanbaptistearnaud 1/7/2015 17:47",
+		"stream" : "jeanbaptistearnaud 1/7/2015 17:47",
+		"streamFromContext:" : "jeanbaptistearnaud 1/7/2015 17:47" } }

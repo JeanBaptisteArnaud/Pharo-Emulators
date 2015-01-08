@@ -2,15 +2,15 @@
 	"class" : {
 		 },
 	"instance" : {
-		"beginAddress" : "jeanbaptistearnaud 8/21/2013 17:52",
-		"endAddress" : "jeanbaptistearnaud 8/21/2013 17:52",
-		"finalize" : "jeanbaptistearnaud 8/29/2013 14:59",
-		"initialize" : "jenabaptistearnaud 8/30/2013 15:20",
-		"lcdControl" : "jeanbaptistearnaud 8/21/2013 12:26",
-		"lcdcStatus" : "jeanbaptistearnaud 8/21/2013 12:28",
-		"mode1" : "jeanbaptistearnaud 8/22/2013 16:28",
-		"mode2" : "jeanbaptistearnaud 8/22/2013 16:28",
-		"mode3" : "jeanbaptistearnaud 8/22/2013 16:28",
-		"mode4" : "jeanbaptistearnaud 8/22/2013 16:28",
-		"screenLoop" : "jeanbaptistearnaud 8/29/2013 14:56",
-		"setLCDStatus" : "jeanbaptistearnaud 8/22/2013 15:53" } }
+		"beginAddress" : "JeanBaptisteArnaud 1/7/2015 13:27:51",
+		"endAddress" : "JeanBaptisteArnaud 1/7/2015 13:27:51",
+		"finalize" : "JeanBaptisteArnaud 1/7/2015 13:27:51",
+		"initialize" : "JeanBaptisteArnaud 1/7/2015 13:27:51",
+		"lcdControl" : "JeanBaptisteArnaud 1/7/2015 13:27:51",
+		"lcdcStatus" : "JeanBaptisteArnaud 1/7/2015 13:27:51",
+		"mode1" : "JeanBaptisteArnaud 1/7/2015 13:27:51",
+		"mode2" : "JeanBaptisteArnaud 1/7/2015 13:27:51",
+		"mode3" : "JeanBaptisteArnaud 1/7/2015 13:27:51",
+		"mode4" : "JeanBaptisteArnaud 1/7/2015 13:27:51",
+		"screenLoop" : "JeanBaptisteArnaud 1/7/2015 13:27:51",
+		"setLCDStatus" : "JeanBaptisteArnaud 1/7/2015 13:27:51" } }

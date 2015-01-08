@@ -1,12 +1,12 @@
 {
 	"class" : {
-		"beginAddress" : "jb 2/14/2013 16:13",
-		"endAddress" : "jb 2/14/2013 16:13",
-		"new" : "jeanbaptistearnaud 11/28/2014 09:55" },
+		"beginAddress" : "JeanBaptisteArnaud 1/7/2015 13:27:51",
+		"endAddress" : "JeanBaptisteArnaud 1/7/2015 13:27:51",
+		"new" : "JeanBaptisteArnaud 1/7/2015 13:27:51" },
 	"instance" : {
-		"atAllPut:" : "jeanbaptistearnaud 11/27/2014 12:49",
-		"beginValue" : "jeanbaptistearnaud 9/17/2014 02:49",
-		"byteAt:" : "jb 9/17/2014 17:57",
-		"byteAt:put:" : "jb 9/17/2014 17:58",
-		"rb:" : "jb 9/17/2014 17:58",
-		"wb:value:" : "jeanbaptistearnaud 11/27/2014 12:32" } }
+		"atAllPut:" : "JeanBaptisteArnaud 1/7/2015 13:27:51",
+		"beginValue" : "JeanBaptisteArnaud 1/7/2015 13:27:51",
+		"byteAt:" : "JeanBaptisteArnaud 1/7/2015 13:27:51",
+		"byteAt:put:" : "JeanBaptisteArnaud 1/7/2015 13:27:51",
+		"rb:" : "JeanBaptisteArnaud 1/7/2015 13:27:51",
+		"wb:value:" : "JeanBaptisteArnaud 1/7/2015 13:27:51" } }

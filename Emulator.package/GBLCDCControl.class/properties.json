@@ -1,0 +1,21 @@
+{
+	"category" : "Emulator-GB-Graphics-Registers",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jeanbaptistearnaud 1/8/2015 17:27",
+	"instvars" : [
+		"BGDisplay",
+		"BGTileMapDisplaySelect",
+		"BGWindowTileDataSelect",
+		"LCDDisplayEnable",
+		"OBJSpriteDisplayEnable",
+		"OBJSpriteSize",
+		"WindowDisplayEnable",
+		"WindowTileMapDisplaySelect" ],
+	"name" : "GBLCDCControl",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

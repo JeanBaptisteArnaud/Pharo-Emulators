@@ -1,3 +1,3 @@
 Timer
 displayIsOn
-	^(((screen LCDC)>>7) ~= 0)
+	^(screen LCDC lCDDisplayEnable ~= 0)

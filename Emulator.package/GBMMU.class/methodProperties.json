@@ -2,15 +2,15 @@
 	"class" : {
 		 },
 	"instance" : {
-		"graphics" : "arnaudjeanbaptiste 7/24/2013 16:05",
-		"initialize" : "jeanbaptistearnaud 12/8/2014 00:31",
-		"initializeMemoryMap" : "jb 8/9/2013 12:33",
-		"io" : "jb 8/7/2013 16:12",
-		"loadRom:" : "arnaudjeanbaptiste 7/23/2013 12:30",
-		"rb:" : "jeanbaptiste 8/12/2013 14:34",
-		"rw:" : "arnaudjeanbaptiste 7/23/2013 12:30",
-		"screen" : "jb 8/6/2013 15:43",
-		"screenIsDirty" : "jb 8/9/2013 12:31",
-		"setZ80:" : "arnaudjeanbaptiste 7/23/2013 12:30",
-		"wb:value:" : "jeanbaptiste 8/12/2013 17:03",
-		"ww:value:" : "arnaudjeanbaptiste 7/23/2013 15:23" } }
+		"graphics" : "JeanBaptisteArnaud 1/7/2015 13:27:51",
+		"initialize" : "JeanBaptisteArnaud 1/7/2015 13:27:51",
+		"initializeMemoryMap" : "JeanBaptisteArnaud 1/7/2015 13:27:51",
+		"io" : "JeanBaptisteArnaud 1/7/2015 13:27:51",
+		"loadRom:" : "JeanBaptisteArnaud 1/7/2015 13:27:51",
+		"rb:" : "JeanBaptisteArnaud 1/7/2015 13:27:51",
+		"rw:" : "JeanBaptisteArnaud 1/7/2015 13:27:51",
+		"screen" : "JeanBaptisteArnaud 1/7/2015 13:27:51",
+		"screenIsDirty" : "JeanBaptisteArnaud 1/7/2015 13:27:51",
+		"setZ80:" : "JeanBaptisteArnaud 1/7/2015 13:27:51",
+		"wb:value:" : "JeanBaptisteArnaud 1/7/2015 13:27:51",
+		"ww:value:" : "JeanBaptisteArnaud 1/7/2015 13:27:51" } }

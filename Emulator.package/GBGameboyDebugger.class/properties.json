@@ -1,0 +1,14 @@
+{
+	"category" : "Emulator-Tools-Debugger",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "GBGameboyDebugger",
+	"pools" : [
+		 ],
+	"super" : "GTGenericStackDebugger",
+	"type" : "normal" }

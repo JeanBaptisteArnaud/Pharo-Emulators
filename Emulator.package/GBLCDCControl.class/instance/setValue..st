@@ -1,0 +1,2 @@
+LCD Control
+setValue: anInteger

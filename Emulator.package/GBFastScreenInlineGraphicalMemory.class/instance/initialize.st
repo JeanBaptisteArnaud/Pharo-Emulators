@@ -1,7 +1,8 @@
 slow memory access
 initialize
 	super initialize.
-	1 to: 42 do:[:e | self at: e put: 0.].
+	LCDC := GBLCDCControl new.
+	2 to: 42 do:[:e | self at: e put: 0.].
 	
 	RAMTileSet := GBGraphicsRAMTileSet new.
 	RAMTileMap := GBGraphicsRAMTileMap new.

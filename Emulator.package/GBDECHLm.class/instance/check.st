@@ -1,6 +1,10 @@
 as yet unclassified
 check
-	processor checkZeroForDecrementAtHL.
-	processor checkHalfCarryForDecrementAtHL.
+	self flag: #todo.
+	"processor checkZeroForDecrementAtHL.
+	processor checkHalfCarryForDecrementAtHL."
+	
+	processor flags resetZ.
+	processor flags resetH.
 	processor flags setN.
 	

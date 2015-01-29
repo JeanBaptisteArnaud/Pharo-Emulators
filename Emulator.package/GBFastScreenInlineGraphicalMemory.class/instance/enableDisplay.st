@@ -1,0 +1,3 @@
+api
+enableDisplay
+	self framebufferToLCD.

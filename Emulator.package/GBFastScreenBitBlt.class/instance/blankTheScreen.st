@@ -1,0 +1,3 @@
+api
+blankTheScreen
+	bitbltBlankerScreen copyBits.

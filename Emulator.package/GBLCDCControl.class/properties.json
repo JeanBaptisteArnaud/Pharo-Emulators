@@ -6,14 +6,8 @@
 		 ],
 	"commentStamp" : "jeanbaptistearnaud 1/8/2015 17:27",
 	"instvars" : [
-		"BGDisplay",
-		"BGTileMapDisplaySelect",
-		"BGWindowTileDataSelect",
-		"LCDDisplayEnable",
-		"OBJSpriteDisplayEnable",
-		"OBJSpriteSize",
-		"WindowDisplayEnable",
-		"WindowTileMapDisplaySelect" ],
+		"value",
+		"screen" ],
 	"name" : "GBLCDCControl",
 	"pools" : [
 		 ],

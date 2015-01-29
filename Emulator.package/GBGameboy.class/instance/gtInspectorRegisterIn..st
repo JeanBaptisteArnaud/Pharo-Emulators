@@ -1,5 +1,5 @@
 gt-inspector
-gtInspectorSendersIn: composite
+gtInspectorRegisterIn: composite
      <gtInspectorPresentationOrder: 1>
      composite list
           title: 'Registers';

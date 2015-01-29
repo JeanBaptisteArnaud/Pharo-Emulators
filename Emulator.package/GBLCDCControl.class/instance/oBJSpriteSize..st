@@ -1,3 +1,3 @@
-accessing
-oBJSpriteSize: anObject
-	OBJSpriteSize := anObject
+LCD Control - write
+OBJSpriteSize: integer
+	^ value bitAt: 3 put:integer

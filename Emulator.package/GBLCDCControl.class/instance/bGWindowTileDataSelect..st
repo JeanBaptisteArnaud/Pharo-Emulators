@@ -1,3 +1,3 @@
-accessing
-bGWindowTileDataSelect: anObject
-	BGWindowTileDataSelect := anObject
+LCD Control - write
+BGWindowTileDataSelect: integer
+	^ value bitAt: 5 put:integer

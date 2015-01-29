@@ -1,3 +1,3 @@
-accessing
-bGDisplay
-	^ BGDisplay
+LCD Control - read
+BGDisplay
+	^ value bitAt: 1

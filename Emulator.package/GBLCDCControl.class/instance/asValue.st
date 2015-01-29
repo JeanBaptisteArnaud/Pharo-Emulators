@@ -1,3 +1,3 @@
-LCD Control
+value
 asValue
-	
+	^value

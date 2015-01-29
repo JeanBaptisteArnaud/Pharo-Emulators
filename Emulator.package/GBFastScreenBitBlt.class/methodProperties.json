@@ -2,13 +2,18 @@
 	"class" : {
 		 },
 	"instance" : {
-		"backgroundIsDirtyAt:" : "JeanBaptisteArnaud 1/7/2015 13:27:51",
-		"basicFramebufferToLCD" : "JeanBaptisteArnaud 1/7/2015 13:27:51",
-		"contructBitBltPoolForForm:" : "JeanBaptisteArnaud 1/7/2015 13:27:51",
-		"dummyForm" : "JeanBaptisteArnaud 1/7/2015 13:27:51",
-		"formTileMap0" : "JeanBaptisteArnaud 1/7/2015 13:27:51",
-		"formTileMap1" : "JeanBaptisteArnaud 1/7/2015 13:27:51",
-		"initialize" : "jeanbaptistearnaud 1/8/2015 17:10",
-		"originFromIndex:" : "JeanBaptisteArnaud 1/7/2015 13:27:51",
-		"tilesAreDirtyAt:" : "JeanBaptisteArnaud 1/7/2015 13:27:51",
-		"updateTiles" : "jeanbaptistearnaud 1/8/2015 20:10" } }
+		"backgroundIsDirtyAt:" : "JeanBaptisteArnaud 1/8/2015 20:15:10",
+		"basicFramebufferToLCD" : "JeanBaptisteArnaud 1/8/2015 20:15:10",
+		"blankTheScreen" : "jeanbaptistearnaud 1/11/2015 13:25",
+		"contructBitBltPoolForForm:" : "JeanBaptisteArnaud 1/8/2015 20:15:10",
+		"createBlankForm" : "jeanbaptistearnaud 1/11/2015 13:24",
+		"dummyForm" : "JeanBaptisteArnaud 1/8/2015 20:15:10",
+		"forceUpdateTiles" : "jeanbaptistearnaud 1/24/2015 10:51",
+		"formTileMap0" : "JeanBaptisteArnaud 1/8/2015 20:15:10",
+		"formTileMap1" : "JeanBaptisteArnaud 1/8/2015 20:15:10",
+		"initialize" : "jeanbaptistearnaud 1/11/2015 13:27",
+		"originFromIndex:" : "JeanBaptisteArnaud 1/8/2015 20:15:10",
+		"setBGMap0" : "jeanbaptistearnaud 1/28/2015 15:14",
+		"setBGMap1" : "jeanbaptistearnaud 1/28/2015 15:14",
+		"tilesAreDirtyAt:" : "JeanBaptisteArnaud 1/8/2015 20:15:10",
+		"updateTiles" : "jeanbaptistearnaud 1/8/2015 20:54" } }

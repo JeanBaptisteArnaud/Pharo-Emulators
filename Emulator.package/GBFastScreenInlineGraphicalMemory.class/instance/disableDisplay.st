@@ -1,0 +1,3 @@
+api
+disableDisplay
+	self blankTheScreen.

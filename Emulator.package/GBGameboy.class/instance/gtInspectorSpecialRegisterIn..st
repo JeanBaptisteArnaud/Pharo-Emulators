@@ -1,5 +1,5 @@
 gt-inspector
-gtInspectorSenders2In: composite
+gtInspectorSpecialRegisterIn: composite
      <gtInspectorPresentationOrder: 2>
      composite list
           title: 'Special Registers';

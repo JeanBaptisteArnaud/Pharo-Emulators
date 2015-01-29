@@ -1,3 +1,3 @@
-accessing
-bGDisplay: anObject
-	BGDisplay := anObject
+LCD Control - write
+BGDisplay: integer
+	^ value bitAt: 1 put:integer

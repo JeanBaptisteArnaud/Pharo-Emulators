@@ -1,17 +1,17 @@
 {
 	"class" : {
-		"createAllExtendedOpCodes" : "JeanBaptisteArnaud 1/7/2015 13:27:51",
-		"createAllOpCodes" : "JeanBaptisteArnaud 1/7/2015 13:27:51",
-		"createAllOpCodesForProcessor:" : "JeanBaptisteArnaud 1/7/2015 13:27:51",
-		"createExtendSubclass:instructionValue:" : "JeanBaptisteArnaud 1/7/2015 13:27:51",
-		"createSubclass:instructionValue:" : "JeanBaptisteArnaud 1/7/2015 13:27:51",
-		"extendedOpCodesList" : "JeanBaptisteArnaud 1/7/2015 13:27:51",
-		"extendedOpCodesList1" : "JeanBaptisteArnaud 1/7/2015 13:27:51",
-		"extendedOpCodesList2" : "JeanBaptisteArnaud 1/7/2015 13:27:51",
-		"mergeSubclasses:into:" : "JeanBaptisteArnaud 1/7/2015 13:27:51",
-		"newInstruction:forProcessor:withArg:" : "JeanBaptisteArnaud 1/7/2015 13:27:51",
-		"newInstruction:forProcessor:withArg:tick:" : "JeanBaptisteArnaud 1/7/2015 13:27:51",
-		"opCodesList" : "JeanBaptisteArnaud 1/7/2015 13:27:51" },
+		"createAllExtendedOpCodes" : "JeanBaptisteArnaud 1/8/2015 20:15:10",
+		"createAllOpCodes" : "JeanBaptisteArnaud 1/8/2015 20:15:10",
+		"createAllOpCodesForProcessor:" : "JeanBaptisteArnaud 1/8/2015 20:15:10",
+		"createExtendSubclass:instructionValue:" : "JeanBaptisteArnaud 1/8/2015 20:15:10",
+		"createSubclass:instructionValue:" : "JeanBaptisteArnaud 1/8/2015 20:15:10",
+		"extendedOpCodesList" : "JeanBaptisteArnaud 1/8/2015 20:15:10",
+		"extendedOpCodesList1" : "JeanBaptisteArnaud 1/8/2015 20:15:10",
+		"extendedOpCodesList2" : "JeanBaptisteArnaud 1/8/2015 20:15:10",
+		"mergeSubclasses:into:" : "JeanBaptisteArnaud 1/8/2015 20:15:10",
+		"newInstruction:forProcessor:withArg:" : "JeanBaptisteArnaud 1/8/2015 20:15:10",
+		"newInstruction:forProcessor:withArg:tick:" : "JeanBaptisteArnaud 1/8/2015 20:15:10",
+		"opCodesList" : "JeanBaptisteArnaud 1/8/2015 20:15:10" },
 	"instance" : {
-		"interpret" : "JeanBaptisteArnaud 1/7/2015 13:27:51",
-		"tick" : "JeanBaptisteArnaud 1/7/2015 13:27:51" } }
+		"interpret" : "JeanBaptisteArnaud 1/8/2015 20:15:10",
+		"tick" : "JeanBaptisteArnaud 1/8/2015 20:15:10" } }

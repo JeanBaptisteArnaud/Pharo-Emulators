@@ -3,6 +3,11 @@ initialize
 	| cartridge |
 	super initialize.
 	cartridge := GBDebugableCartridge loadTetris.
+	"cartridge := GBDebugableCartridge loadMysticQuest."
+	"cartridge := GBDebugableCartridge loadSPB."
+	
+	
+	
 	"cartridge installADebugOpCodeAt: 16r293.
 	cartridge installADebugOpCodeAt: 16r2a6.
 	cartridge installADebugOpCodeAt: 16r2ba.
@@ -40,9 +45,9 @@ initialize
 	cartridge installADebugOpCodeAt: 16r282e."
 	
 	"cartridge installADebugOpCodeAt: 16r21b."
-	cartridge installADebugOpCodeAt: 16r2d6.
+	"cartridge installADebugOpCodeAt: 16r2d6."
 	
-	cartridge installADebugOpCodeAt: 16r2ba.
+	"cartridge installADebugOpCodeAt: 16r2ba."
 	"cartridge installADebugOpCodeAt: 16r2f2."
 	mmu loadRom: cartridge.
 	processorLog := StandardFileStream forceNewFileNamed: 'processor.log'.

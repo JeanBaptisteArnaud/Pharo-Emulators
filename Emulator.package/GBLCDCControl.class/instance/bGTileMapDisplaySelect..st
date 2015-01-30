@@ -1,6 +1,6 @@
 LCD Control - write
 BGTileMapDisplaySelect: integer
-	(integer = 0) 
+	(integer = 1) 
 		ifTrue:  [ screen setBGMap0 ]
 		ifFalse: [ screen setBGMap1 ].
 	

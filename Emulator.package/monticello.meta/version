@@ -1,3 +1,4 @@
-(name 'Emulator-jeanbaptistearnaud.3' message 'push a version reliable on tetris mire' id '68c70613-8623-49f2-80f2-7a100d74cf2c' date '29 January 2015' time '9:11:59.604976 am' author 'jeanbaptistearnaud' ancestors ((name 'Emulator-JeanBaptisteArnaud.2' message 'comit
+(name 'Emulator-jb.4' message 'Sprite is partly done need to have data now.' id '715fa4cc-7208-4be6-b78e-2f15549afb79' date '30 January 2015' time '11:04:54.384346 am' author 'jb' ancestors ((name 'Emulator-JeanBaptisteArnaud.3' message 'push a version reliable on tetris mire
+' id 'eb00d78b-7060-5b5c-8fad-5871ef3cf13d' date '29 January 2015' time '9:12:07 am' author 'JeanBaptisteArnaud' ancestors ((name 'Emulator-JeanBaptisteArnaud.2' message 'comit
 ' id 'bca112c9-cd88-51d0-8220-f65378fae725' date '8 January 2015' time '8:15:10 pm' author 'JeanBaptisteArnaud' ancestors ((name 'Emulator-JeanBaptisteArnaud.1' message 'first commit on git
-' id '56a6975a-26a4-5623-9321-333a2a82fc32' date '7 January 2015' time '1:27:51 pm' author 'JeanBaptisteArnaud' ancestors () stepChildren ())) stepChildren ())) stepChildren ())
+' id '56a6975a-26a4-5623-9321-333a2a82fc32' date '7 January 2015' time '1:27:51 pm' author 'JeanBaptisteArnaud' ancestors () stepChildren ())) stepChildren ())) stepChildren ())) stepChildren ())

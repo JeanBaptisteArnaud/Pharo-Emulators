@@ -1,0 +1,14 @@
+{
+	"category" : "Emulator-GB-Graphics-Sprites",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "GBSpriteAttributeTable",
+	"pools" : [
+		 ],
+	"super" : "Array",
+	"type" : "variable" }

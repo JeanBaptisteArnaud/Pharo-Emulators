@@ -1,11 +1,11 @@
 {
 	"class" : {
-		"beginAddress" : "JeanBaptisteArnaud 1/8/2015 20:15:10",
-		"endAddress" : "JeanBaptisteArnaud 1/8/2015 20:15:10",
-		"size" : "JeanBaptisteArnaud 1/8/2015 20:15:10" },
+		"beginAddress" : "JeanBaptisteArnaud 1/29/2015 09:12:07",
+		"endAddress" : "JeanBaptisteArnaud 1/29/2015 09:12:07",
+		"size" : "JeanBaptisteArnaud 1/29/2015 09:12:07" },
 	"instance" : {
-		"forceUpdateTileMap0:using:pattern:" : "JeanBaptisteArnaud 1/8/2015 20:15:10",
-		"forceUpdateTileMap1:using:pattern:" : "jeanbaptistearnaud 1/24/2015 11:20",
-		"initialize" : "JeanBaptisteArnaud 1/8/2015 20:15:10",
-		"updateTileMap0:using:pattern:" : "JeanBaptisteArnaud 1/8/2015 20:15:10",
-		"updateTileMap1:using:pattern:" : "jeanbaptistearnaud 1/24/2015 11:16" } }
+		"forceUpdateTileMap0:using:pattern:" : "JeanBaptisteArnaud 1/29/2015 09:12:07",
+		"forceUpdateTileMap1:using:pattern:" : "JeanBaptisteArnaud 1/29/2015 09:12:07",
+		"initialize" : "JeanBaptisteArnaud 1/29/2015 09:12:07",
+		"updateTileMap0:using:pattern:" : "JeanBaptisteArnaud 1/29/2015 09:12:07",
+		"updateTileMap1:using:pattern:" : "JeanBaptisteArnaud 1/29/2015 09:12:07" } }

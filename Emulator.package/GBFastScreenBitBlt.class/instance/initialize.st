@@ -29,10 +29,10 @@ initialize
 	
 	
 	palette  := (Array new: 4) 
-		at: 1 put: ( Color gray pixelValueForDepth: 32);
-		at: 2 put: ( Color pink pixelValueForDepth: 32);
-		at: 3 put: ( Color red pixelValueForDepth: 32);
-		at: 4 put: ( Color black pixelValueForDepth: 32);
+		at: 1 put: ( Color random pixelValueForDepth: 32);
+		at: 2 put: ( Color random pixelValueForDepth: 32);
+		at: 3 put: ( Color random pixelValueForDepth: 32);
+		at: 4 put: ( Color random pixelValueForDepth: 32);
 		yourself.
 		
 	backgroundDirty := false.

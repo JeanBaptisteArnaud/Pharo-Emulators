@@ -1,17 +1,17 @@
 {
 	"class" : {
-		"createAllExtendedOpCodes" : "JeanBaptisteArnaud 1/8/2015 20:15:10",
-		"createAllOpCodes" : "JeanBaptisteArnaud 1/8/2015 20:15:10",
-		"createAllOpCodesForProcessor:" : "JeanBaptisteArnaud 1/8/2015 20:15:10",
-		"createExtendSubclass:instructionValue:" : "JeanBaptisteArnaud 1/8/2015 20:15:10",
-		"createSubclass:instructionValue:" : "JeanBaptisteArnaud 1/8/2015 20:15:10",
-		"extendedOpCodesList" : "JeanBaptisteArnaud 1/8/2015 20:15:10",
-		"extendedOpCodesList1" : "JeanBaptisteArnaud 1/8/2015 20:15:10",
-		"extendedOpCodesList2" : "JeanBaptisteArnaud 1/8/2015 20:15:10",
-		"mergeSubclasses:into:" : "JeanBaptisteArnaud 1/8/2015 20:15:10",
-		"newInstruction:forProcessor:withArg:" : "JeanBaptisteArnaud 1/8/2015 20:15:10",
-		"newInstruction:forProcessor:withArg:tick:" : "JeanBaptisteArnaud 1/8/2015 20:15:10",
-		"opCodesList" : "JeanBaptisteArnaud 1/8/2015 20:15:10" },
+		"createAllExtendedOpCodes" : "JeanBaptisteArnaud 1/29/2015 09:12:07",
+		"createAllOpCodes" : "JeanBaptisteArnaud 1/29/2015 09:12:07",
+		"createAllOpCodesForProcessor:" : "JeanBaptisteArnaud 1/29/2015 09:12:07",
+		"createExtendSubclass:instructionValue:" : "JeanBaptisteArnaud 1/29/2015 09:12:07",
+		"createSubclass:instructionValue:" : "JeanBaptisteArnaud 1/29/2015 09:12:07",
+		"extendedOpCodesList" : "JeanBaptisteArnaud 1/29/2015 09:12:07",
+		"extendedOpCodesList1" : "JeanBaptisteArnaud 1/29/2015 09:12:07",
+		"extendedOpCodesList2" : "JeanBaptisteArnaud 1/29/2015 09:12:07",
+		"mergeSubclasses:into:" : "JeanBaptisteArnaud 1/29/2015 09:12:07",
+		"newInstruction:forProcessor:withArg:" : "JeanBaptisteArnaud 1/29/2015 09:12:07",
+		"newInstruction:forProcessor:withArg:tick:" : "JeanBaptisteArnaud 1/29/2015 09:12:07",
+		"opCodesList" : "JeanBaptisteArnaud 1/29/2015 09:12:07" },
 	"instance" : {
-		"interpret" : "JeanBaptisteArnaud 1/8/2015 20:15:10",
-		"tick" : "JeanBaptisteArnaud 1/8/2015 20:15:10" } }
+		"interpret" : "JeanBaptisteArnaud 1/29/2015 09:12:07",
+		"tick" : "JeanBaptisteArnaud 1/29/2015 09:12:07" } }

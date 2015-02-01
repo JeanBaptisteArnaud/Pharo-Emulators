@@ -1,6 +1,6 @@
 debuging
 newColumn
-	^AlignmentMorph newRow
+	^AlignmentMorph newColumn
 		cellPositioning: #topLeft;
 		color: Color transparent;
 		listCentering: #topLeft;

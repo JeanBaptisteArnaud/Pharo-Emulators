@@ -1,0 +1,15 @@
+{
+	"category" : "Emulator-GB-Graphics-Sprites",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"memoryMap",
+		"lastValue" ],
+	"name" : "GBDMATransfertUnit",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

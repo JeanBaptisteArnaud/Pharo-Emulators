@@ -1,0 +1,3 @@
+api
+tileCache
+	^cacheCalculatedTileMap

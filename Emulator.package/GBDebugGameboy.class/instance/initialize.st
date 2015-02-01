@@ -48,7 +48,7 @@ initialize
 	"cartridge installADebugOpCodeAt: 16r2d6."
 	
 	"cartridge installADebugOpCodeAt: 16r2ba."
-	"cartridge installADebugOpCodeAt: 16r2f2."
+	cartridge installADebugOpCodeAt: 16r2f2.
 	mmu loadRom: cartridge.
 	processorLog := StandardFileStream forceNewFileNamed: 'processor.log'.
 	registerLog := StandardFileStream forceNewFileNamed: 'register.log'.

@@ -7,8 +7,8 @@
 	"commentStamp" : "",
 	"instvars" : [
 		 ],
-	"name" : "GBDebugSession",
+	"name" : "GBStepToNextInterpret",
 	"pools" : [
 		 ],
-	"super" : "DebugSession",
+	"super" : "DebugAction",
 	"type" : "normal" }

@@ -2,18 +2,5 @@
 	"class" : {
 		 },
 	"instance" : {
-		"createStepPredicateForPredicate:" : "JeanBaptisteArnaud 1/29/2015 09:12:07",
-		"isActive" : "JeanBaptisteArnaud 1/29/2015 09:12:07",
-		"isActive:" : "JeanBaptisteArnaud 1/29/2015 09:12:07",
-		"namedProductionPredicate:" : "JeanBaptisteArnaud 1/29/2015 09:12:07",
-		"parseMethodEntryPredicate" : "JeanBaptisteArnaud 1/29/2015 09:12:07",
-		"parseMethodPredicate" : "JeanBaptisteArnaud 1/29/2015 09:12:07",
-		"process:context:" : "JeanBaptisteArnaud 1/29/2015 09:12:07",
-		"rootParser" : "JeanBaptisteArnaud 1/29/2015 09:12:07",
-		"rootParserContext" : "JeanBaptisteArnaud 1/29/2015 09:12:07",
-		"stepOverInitialInstructionForContext:" : "JeanBaptisteArnaud 1/29/2015 09:12:07",
-		"stepToNextNonDelegateParserFromContext:" : "JeanBaptisteArnaud 1/29/2015 09:12:07",
-		"stepToNextParserFromContext:" : "JeanBaptisteArnaud 1/29/2015 09:12:07",
-		"stepToNextProduction:fromContext:" : "JeanBaptisteArnaud 1/29/2015 09:12:07",
-		"stream" : "JeanBaptisteArnaud 1/29/2015 09:12:07",
-		"streamFromContext:" : "JeanBaptisteArnaud 1/29/2015 09:12:07" } }
+		"process:context:" : "jb 1/30/2015 16:56",
+		"stepToBoNextBytecode" : "jb 1/30/2015 16:49" } }

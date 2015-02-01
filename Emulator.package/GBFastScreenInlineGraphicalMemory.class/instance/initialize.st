@@ -10,6 +10,7 @@ initialize
 	RAMTileMap := GBGraphicsRAMTileMap new.
 	RAMTileSet atAllPut: 0.
 	RAMTileMap atAllPut: 0.
+	DMA := GBDMATransfertUnit new.
 	
 	"RAMTileSet notifier: self.
 	RAMTileMap notifier: self."

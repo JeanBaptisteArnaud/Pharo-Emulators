@@ -12,7 +12,7 @@
 		"bitBltPool1",
 		"backgroundDirty",
 		"cacheCalculatedTileMap",
-		"palette",
+		"tilePalette",
 		"tilesDirty",
 		"updateBackgroundDataList",
 		"updateBackgroundTileList",

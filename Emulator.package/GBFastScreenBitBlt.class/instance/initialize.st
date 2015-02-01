@@ -28,8 +28,8 @@ initialize
 			clipRect: (0@0 extent: self screenSize).
 	
 	
-	palette  := (Array new: 4) 
-		at: 1 put: ( Color random pixelValueForDepth: 32);
+	tilePalette  := (Array new: 4) 
+		at: 1 put: ( Color transparent pixelValueForDepth: 32);
 		at: 2 put: ( Color random pixelValueForDepth: 32);
 		at: 3 put: ( Color random pixelValueForDepth: 32);
 		at: 4 put: ( Color random pixelValueForDepth: 32);

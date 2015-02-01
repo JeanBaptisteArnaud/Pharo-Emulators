@@ -9,6 +9,6 @@ calculatedTileAt: index
 	1 to: 8 do: [:y |
 		1 to: 8 do: [:x || colorIndex |
 			colorIndex := (( RAMTileSet at: (begin + ((y-1)*2))) bitAt: x) + (((RAMTileSet at:begin + ((y*2)-1)) bitAt: x)*2).
-			array at: (((y-1)*8) + (9-x))  put: (palette at: (colorIndex + 1)).
+			array at: (((y-1)*8) + (9-x))  put: (tilePalette at: (colorIndex + 1)).
 		]].
 	^array

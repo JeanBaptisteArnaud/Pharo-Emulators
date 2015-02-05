@@ -13,7 +13,7 @@ initialize
 			combinationRule: Form over 
 			destOrigin: 0@0
 			sourceOrigin: 0@0
-			extent: 8@16
+			extent: 8@8
 			clipRect: (0@0 extent: 8@8).
 			
 bltBitLowerToform16 := BitBlt
@@ -23,8 +23,25 @@ bltBitLowerToform16 := BitBlt
 			combinationRule: Form over 
 			destOrigin: 0@8
 			sourceOrigin: 0@0
-			extent: 8@16
-			clipRect: (0@8 extent: 8@16).
+			extent: 8@8
+			clipRect: (0@0 extent: 8@16)."care should be initialize"
 			
-	"bltBit8x8 := 
-	bltbit8x16 := "
+	bltbit8x8 := BitBlt
+			destForm: (Form extent: 8@8 depth: 32)  "care should be initialize"
+			sourceForm: form8 
+			fillColor: Color white 
+			combinationRule: Form paint 
+			destOrigin: 0@0 "thisShould change"
+			sourceOrigin: 0@0
+			extent: 8@8
+			clipRect: (0@0 extent: 0@0)."care should be initialize"
+			
+	bltbit8x16 := BitBlt
+			destForm: (Form extent: 8@8 depth: 32)  "care should be initialize"
+			sourceForm: form16 
+			fillColor: Color white 
+			combinationRule: Form paint 
+			destOrigin: 0@0 "thisShould change"
+			sourceOrigin: 0@0
+			extent: 8@16
+			clipRect: (0@0 extent: 0@0).

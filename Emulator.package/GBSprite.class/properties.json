@@ -6,7 +6,7 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"bltBit8x8",
+		"bltbit8x8",
 		"bltbit8x16",
 		"form8",
 		"form16",

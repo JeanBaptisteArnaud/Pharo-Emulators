@@ -1,0 +1,14 @@
+{
+	"category" : "Emulator-GB-Graphics-Sprites",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "GBSpriteY",
+	"pools" : [
+		 ],
+	"super" : "GBSpriteWrapper",
+	"type" : "normal" }

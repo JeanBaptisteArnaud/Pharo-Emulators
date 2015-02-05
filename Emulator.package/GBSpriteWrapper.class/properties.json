@@ -1,0 +1,15 @@
+{
+	"category" : "Emulator-GB-Graphics-Sprites",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"value",
+		"sprite" ],
+	"name" : "GBSpriteWrapper",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

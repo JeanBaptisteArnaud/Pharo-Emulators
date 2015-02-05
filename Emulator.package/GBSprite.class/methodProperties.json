@@ -1,0 +1,17 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"changeTileTo:" : "jb 2/5/2015 21:10",
+		"changeXTo:" : "jb 2/5/2015 21:11",
+		"changeYTo:" : "jb 2/5/2015 21:11",
+		"form16" : "jb 2/5/2015 21:24",
+		"form8" : "jb 2/5/2015 21:16",
+		"frontBG" : "jb 2/5/2015 20:23",
+		"initialize" : "jb 2/5/2015 22:11",
+		"palette:" : "jb 2/5/2015 20:15",
+		"reCachingMyself" : "jb 2/5/2015 21:39",
+		"setPaletteValueTo:" : "jb 2/5/2015 20:10",
+		"setScreen:" : "jb 2/5/2015 20:53",
+		"x:" : "jb 2/5/2015 20:22",
+		"y:" : "jb 2/5/2015 20:22" } }

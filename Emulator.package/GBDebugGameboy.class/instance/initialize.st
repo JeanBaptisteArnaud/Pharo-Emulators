@@ -8,7 +8,7 @@ initialize
 	
 	
 	
-	cartridge installADebugOpCodeAt: 16r293.
+	"cartridge installADebugOpCodeAt: 16r293."
 	"cartridge installADebugOpCodeAt: 16r2a6.
 	cartridge installADebugOpCodeAt: 16r2ba.
 	cartridge installADebugOpCodeAt: 16r2bb."	

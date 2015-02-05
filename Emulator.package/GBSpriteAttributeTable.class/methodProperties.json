@@ -1,13 +1,13 @@
 {
 	"class" : {
-		"new" : "jb 1/30/2015 10:54" },
+		"new" : "jb 2/5/2015 19:12" },
 	"instance" : {
+		"allSpritesForm16" : "jb 2/5/2015 21:24",
+		"allSpritesForm8" : "jb 2/5/2015 21:19",
 		"beginValue" : "jb 1/30/2015 10:52",
 		"endValue" : "jb 1/30/2015 10:52",
-		"rb:" : "jb 1/30/2015 10:53",
-		"sprite:" : "jb 1/30/2015 10:58",
-		"spriteFlags:" : "jb 1/31/2015 16:24",
-		"spriteTileValue:" : "jb 1/31/2015 16:24",
-		"spriteX:" : "jb 1/31/2015 16:23",
-		"spriteY:" : "jb 1/31/2015 16:23",
-		"wb:value:" : "jb 1/30/2015 10:53" } }
+		"initialize" : "jb 2/5/2015 20:13",
+		"rb:" : "jb 2/5/2015 18:58",
+		"renderSprites" : "jb 2/5/2015 18:40",
+		"setScreen:" : "jb 2/5/2015 20:44",
+		"wb:value:" : "jb 2/5/2015 18:58" } }

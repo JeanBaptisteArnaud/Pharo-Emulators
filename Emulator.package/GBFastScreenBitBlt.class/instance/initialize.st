@@ -11,7 +11,7 @@ initialize
 			destForm: screen
 			sourceForm: formTileMap0
 			fillColor: Color white 
-			combinationRule: Form over 
+			combinationRule: Form paint 
 			destOrigin: 0@0
 			sourceOrigin: 0@0
 			extent: self screenSize
@@ -20,7 +20,7 @@ initialize
 	bitbltBlankerScreen := BitBlt
 			destForm: screen
 			sourceForm: self createBlankForm
-			fillColor: (Color gray) 
+			fillColor: (Color white) 
 			combinationRule: Form over 
 			destOrigin: 0@0
 			sourceOrigin: 0@0

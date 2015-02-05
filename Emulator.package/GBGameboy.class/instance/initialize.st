@@ -25,4 +25,3 @@ initialize
 	engine screen: screen.
 	"mmu graphics do:[:each | each screen: screen]."
 	
-	

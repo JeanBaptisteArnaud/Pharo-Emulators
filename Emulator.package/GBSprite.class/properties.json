@@ -1,0 +1,26 @@
+{
+	"category" : "Emulator-GB-Graphics-Sprites",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"bltBit8x8",
+		"bltbit8x16",
+		"form8",
+		"form16",
+		"palettes",
+		"currentPalette",
+		"reverseX",
+		"reverseY",
+		"tileIndex",
+		"screen",
+		"tileArray",
+		"bltBitUpperToform16",
+		"bltBitLowerToform16" ],
+	"name" : "GBSprite",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

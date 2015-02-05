@@ -9,7 +9,8 @@
 		"RAMTileSet",
 		"RAMTileMap",
 		"LCDC",
-		"DMA" ],
+		"DMA",
+		"OAM" ],
 	"name" : "GBFastScreenInlineGraphicalMemory",
 	"pools" : [
 		 ],

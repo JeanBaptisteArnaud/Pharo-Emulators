@@ -8,6 +8,7 @@ SystemOrganization addCategory: 'Emulator-GB-Graphics-Tests'!
 SystemOrganization addCategory: 'Emulator-GB-Graphics-Tools'!
 SystemOrganization addCategory: 'Emulator-GB-Interrupt'!
 SystemOrganization addCategory: 'Emulator-GB-Memory'!
+SystemOrganization addCategory: 'Emulator-GB-Pad'!
 SystemOrganization addCategory: 'Emulator-GB-Sounds'!
 SystemOrganization addCategory: 'Emulator-Proc-GB'!
 SystemOrganization addCategory: 'Emulator-Proc-GB-ExtendedOpcodes'!

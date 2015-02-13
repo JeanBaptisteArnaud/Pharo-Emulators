@@ -1,0 +1,27 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"createDown" : "jb 2/13/2015 11:13",
+		"createLeft" : "jb 2/13/2015 11:16",
+		"createMorphs" : "jb 2/13/2015 11:20",
+		"createRight" : "jb 2/13/2015 11:14",
+		"createTop" : "jb 2/13/2015 11:13",
+		"downDown" : "jb 2/13/2015 12:23",
+		"downUp" : "jb 2/13/2015 12:32",
+		"initialize" : "jb 2/13/2015 12:22",
+		"initializeEvents" : "jb 2/13/2015 12:00",
+		"initializeShortcut" : "jb 2/13/2015 12:13",
+		"keyDown:" : "jb 2/13/2015 12:27",
+		"keyUp:" : "jb 2/13/2015 12:31",
+		"leftDown" : "jb 2/13/2015 12:24",
+		"leftUp" : "jb 2/13/2015 12:24",
+		"newColumn" : "jb 2/13/2015 11:17",
+		"newRow" : "jb 2/13/2015 11:17",
+		"rightDown" : "jb 2/13/2015 12:24",
+		"rightUp" : "jb 2/13/2015 12:24",
+		"shortcutTable" : "jb 2/13/2015 11:26",
+		"shortcutTableUp" : "jb 2/13/2015 12:07",
+		"takesKeyboardFocus" : "jb 2/13/2015 11:59",
+		"topDown" : "jb 2/13/2015 12:23",
+		"topUp" : "jb 2/13/2015 12:23" } }

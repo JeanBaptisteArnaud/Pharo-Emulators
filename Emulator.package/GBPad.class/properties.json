@@ -1,0 +1,20 @@
+{
+	"category" : "Emulator-GB-Pad",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"l",
+		"r",
+		"t",
+		"d",
+		"toggleTable",
+		"shortcutTableUp",
+		"shortcutTableDown" ],
+	"name" : "GBPad",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

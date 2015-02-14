@@ -1,14 +1,14 @@
 {
-	"category" : "Emulator-GB-Dividers",
+	"category" : "Emulator-GB-Serial",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"value" ],
-	"name" : "GBDivider",
+		 ],
+	"name" : "GBSerialData",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "GBSerial",
 	"type" : "normal" }

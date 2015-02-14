@@ -2,5 +2,6 @@
 	"class" : {
 		 },
 	"instance" : {
-		"beginAddress" : "JeanBaptisteArnaud 1/29/2015 09:12:07",
-		"endAddress" : "JeanBaptisteArnaud 1/29/2015 09:12:07" } }
+		"initialize" : "jb 2/14/2015 20:51",
+		"rb:" : "jb 2/14/2015 20:51",
+		"wb:value:" : "jb 2/14/2015 20:51" } }

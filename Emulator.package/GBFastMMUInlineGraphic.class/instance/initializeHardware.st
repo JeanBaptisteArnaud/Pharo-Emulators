@@ -1,30 +1,35 @@
 as yet unclassified
 initializeHardware
-	| divider joypad serial highRam  sound wavePattern iFlags iEnable |
+	| dividerRegister joypad  highRam  sound wavePattern iFlags iEnable serialData serialControl dividerTimerControl dividerTimerCounter dividerTimerModulo |
 	"add one to all address"
 	highRam := GBHRam new.
 	sound := GBSoundController new.
 	wavePattern := GBWavePattern new.
-	divider := GBDivider new.
+	dividerRegister := GBDividerRegister new.
+	dividerTimerControl := GBTimerControl new.
+	dividerTimerCounter := GBTimerCounter new.
+	dividerTimerModulo := GBTimerModulo new.
+	
 	iFlags := GBInterruptFlag new.
 	iEnable := GBInterruptEnable new.
 	joypad  := GBJoysticks new.
 	joypad setInteruptFlagTo: iFlags.
- 	serial := GBSerial new. 
+ 	serialData := GBSerialData new.
+	serialControl := GBSerialControl new.
+	 
 	"I/O Register"
 		"Joypad"
 		memoryMap at: 16rFF01 put: joypad.
 		"serial transfert data"
-		memoryMap at: 16rFF02 put: serial.
+		memoryMap at: 16rFF02 put: serialData.
 		"serial transfert control"
-		memoryMap at: 16rFF03 put: serial.
+		memoryMap at: 16rFF03 put: serialControl.
 		
 		"Divider"
-		memoryMap at: 16rFF04 put: divider.
-		memoryMap at: 16rFF05 put: divider.
-		memoryMap at: 16rFF06 put: divider.
-		memoryMap at: 16rFF07 put: divider.
-		
+		memoryMap at: 16rFF05 put: dividerRegister.
+		memoryMap at: 16rFF06 put: dividerTimerControl.
+		memoryMap at: 16rFF07 put: dividerTimerCounter.
+		memoryMap at: 16rFF08 put: dividerTimerModulo.
 		
 		"request interrupt"
 		memoryMap at: 16rFF10 put: iFlags.

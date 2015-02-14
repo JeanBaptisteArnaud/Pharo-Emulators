@@ -1,3 +1,3 @@
 as yet unclassified
-endAddress
-	^16rFF07
+rb: addr
+	^value

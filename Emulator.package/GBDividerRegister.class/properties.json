@@ -6,9 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"value" ],
-	"name" : "GBDivider",
+		 ],
+	"name" : "GBDividerRegister",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "GBDivider",
 	"type" : "normal" }

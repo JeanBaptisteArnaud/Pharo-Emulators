@@ -1,5 +1,6 @@
 SystemOrganization addCategory: #Emulator!
 SystemOrganization addCategory: 'Emulator-GB-Cartridge'!
+SystemOrganization addCategory: 'Emulator-GB-Dividers'!
 SystemOrganization addCategory: 'Emulator-GB-Engine'!
 SystemOrganization addCategory: 'Emulator-GB-Graphics'!
 SystemOrganization addCategory: 'Emulator-GB-Graphics-Registers'!
@@ -9,6 +10,7 @@ SystemOrganization addCategory: 'Emulator-GB-Graphics-Tools'!
 SystemOrganization addCategory: 'Emulator-GB-Interrupt'!
 SystemOrganization addCategory: 'Emulator-GB-Memory'!
 SystemOrganization addCategory: 'Emulator-GB-Pad'!
+SystemOrganization addCategory: 'Emulator-GB-Serial'!
 SystemOrganization addCategory: 'Emulator-GB-Sounds'!
 SystemOrganization addCategory: 'Emulator-Proc-GB'!
 SystemOrganization addCategory: 'Emulator-Proc-GB-ExtendedOpcodes'!

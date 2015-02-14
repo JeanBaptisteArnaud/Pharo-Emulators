@@ -5,4 +5,6 @@ drawLine
 		"tiles memory changed ?"
 	 	tilesDirty ifTrue:[self updateTiles].
 		"back memory changed ?"
-		backgroundDirty ifTrue:[self forceUpdateBackground].].
+		backgroundDirty ifTrue:[self forceUpdateBackground].
+		self framebufferToLCD.
+		].

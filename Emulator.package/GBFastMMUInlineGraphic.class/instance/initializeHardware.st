@@ -1,13 +1,15 @@
 as yet unclassified
 initializeHardware
-	| divider joypad serial highRam  sound wavePattern |
+	| divider joypad serial highRam  sound wavePattern iFlags iEnable |
 	"add one to all address"
 	highRam := GBHRam new.
 	sound := GBSoundController new.
 	wavePattern := GBWavePattern new.
 	divider := GBDivider new.
-	
-	joypad  := GBJoysticks new. 
+	iFlags := GBInterruptFlag new.
+	iEnable := GBInterruptEnable new.
+	joypad  := GBJoysticks new.
+	joypad setInteruptFlagTo: iFlags.
  	serial := GBSerial new. 
 	"I/O Register"
 		"Joypad"
@@ -25,7 +27,7 @@ initializeHardware
 		
 		
 		"request interrupt"
-		memoryMap at: 16rFF10 put: GBInterruptFlag new.
+		memoryMap at: 16rFF10 put: iFlags.
 		"Sound Register"
 		16rFF11 to: 16rFF2A do:[:address | memoryMap at: address put: sound.].
 		"Wave pattern Register"
@@ -40,4 +42,4 @@ initializeHardware
 		"highRam"
 		16rFF81 to: 16rFFFF do:[:address | memoryMap at: address put: highRam].
 		"interupt provide"
-		memoryMap at: 16r10000 put: GBInterruptEnable new.
+		memoryMap at: 16r10000 put: iEnable.

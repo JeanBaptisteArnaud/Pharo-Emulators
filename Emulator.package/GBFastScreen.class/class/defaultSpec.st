@@ -2,5 +2,7 @@ as yet unclassified
 defaultSpec
 	<spec>
 	^  SpecLayout composed
-					add: #screen;
+				newColumn:[:c | 
+					c	add: #screen;
+						add: #pad];
 				yourself

@@ -1,4 +1,4 @@
-as yet unclassified
+initialization
 initialize
 	super initialize.
-	value := 255
+	value := 2r11111111.

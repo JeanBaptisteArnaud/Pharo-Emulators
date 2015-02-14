@@ -1,6 +1,5 @@
-as yet unclassified
+slow memory access
 wb: aAdrress value: aValue
 
-	((aValue bitAnd: 48) ~= aValue) ifTrue:[Halt now.].
-	^value := value bitOr: aValue.
+	^value := (value bitAnd: 2r00111111) bitOr: (aValue bitAnd: 48).
 	

@@ -7,8 +7,10 @@
 	"commentStamp" : "<historical>",
 	"instvars" : [
 		"screenContainer",
+		"padContainer",
 		"screen",
-		"currentWinLine" ],
+		"currentWinLine",
+		"pad" ],
 	"name" : "GBFastScreen",
 	"pools" : [
 		 ],

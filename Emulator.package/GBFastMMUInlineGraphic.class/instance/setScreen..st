@@ -2,6 +2,8 @@ as yet unclassified
 setScreen: screen 
 	| graphicsSet graphicsMap |
 	screen OAM:(memoryMap at: 16rFE01).
+	screen linkToPadToJoystick: (memoryMap at: 16rFF01).
+	
 	(memoryMap at: 16rFE01) setScreen: screen.
 	
 	memoryMap at: 16rFF41 put: screen LCDC.

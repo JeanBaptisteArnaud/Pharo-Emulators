@@ -1,3 +1,3 @@
 initialization
 keyDown: value
-	self perform: (shortcutTableDown at: value scanCode).
+	self perform: (shortcutTableDown at: value scanCode  + 1).

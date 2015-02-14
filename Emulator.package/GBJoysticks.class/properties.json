@@ -1,12 +1,13 @@
 {
-	"category" : "Emulator-Proc-GB-Hardware-Todo",
+	"category" : "Emulator-GB-Pad",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "",
+	"commentStamp" : "jb 2/14/2015 16:44",
 	"instvars" : [
-		"value" ],
+		"value",
+		"interruptFlag" ],
 	"name" : "GBJoysticks",
 	"pools" : [
 		 ],
